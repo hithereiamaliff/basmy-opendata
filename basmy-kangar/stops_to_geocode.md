@@ -1,0 +1,328 @@
+# BAS.MY Kangar Stops for Geocoding
+
+This file contains a list of unique bus stops and landmarks extracted from the `20250516_BASMY_Kangar_Master Map.pdf`. The next step is to find the latitude and longitude for each of these locations.
+- [ ] 55 Café
+- [ ] Agr obazaar
+- [ ] Alor Mer ah
+- [ ] Alor Sena
+- [ ] Aman Central
+- [ ] Apar tment K CS
+- [ ] Asrama
+- [ ] Ayer Hitam
+- [ ] Bakar Arang
+- [ ] Bakar Bata
+- [ ] Balai Baru
+- [ ] Balai Polis Pauh
+- [ ] Balai Polis Simpang Empat
+- [ ] Bas Jitra
+- [ ] Bas Pendang
+- [ ] Batu 1 SMK Sultanah Asma
+- [ ] Batu 14Masjid Pulau K etam
+- [ ] Batu 15
+- [ ] Batu 16
+- [ ] Batu 17Klinik K esihatan Tunjang
+- [ ] Batu 18
+- [ ] Batu 2
+- [ ] Batu 20
+- [ ] Batu 3 1/4
+- [ ] Batu 3 1/2
+- [ ] Bedong
+- [ ] BERNAS
+- [ ] Berseri
+- [ ] BHP Padang Sera
+- [ ] BHP Taman
+- [ ] Bir o Tata Negar a
+- [ ] BSN
+- [ ] Bukit Jernih
+- [ ] Bukit Makmur
+- [ ] C Mart Sg Petani
+- [ ] Caltex
+- [ ] Caltex Kg Imam
+- [ ] Caltex Pendang
+- [ ] Central Square
+- [ ] Changlun
+- [ ] Chuping
+- [ ] Dataran Alor Setar
+- [ ] Dewan Besar F elda Chuping
+- [ ] Dewan Kg Ujung Batu
+- [ ] Dewan Padang Sera
+- [ ] Dewan Wawasan
+- [ ] EDC UUM
+- [ ] FAMA
+- [ ] Felcr a L ubuk Sir eh
+- [ ] Felda Chuping
+- [ ] Gano Ason
+- [ ] Gelanggang K ok Klang
+- [ ] Gerai Buah-Buahan Segar FAMA
+- [ ] Gial
+- [ ] Giat Mar a
+- [ ] Giant Kangar
+- [ ] Guar Sanji
+- [ ] Gurun
+- [ ] Hentian Kompleks Wantas
+- [ ] Hospital Alor Setar
+- [ ] Hospital Jitra
+- [ ] Hospital Sultan Abdul Halim
+- [ ] Hospital Tuanku Fauziah
+- [ ] Hub Padang Besar
+- [ ] Hutan Kandis
+- [ ] IKM Sungai Petani
+- [ ] Institut P er guruan
+- [ ] IPD Kota Setar
+- [ ] Jabatan Kesihatan Negeri Perlis
+- [ ] Jabatan Pendaftaran Negara
+- [ ] Jalan Sepakat
+- [ ] Jitra
+- [ ] JKR Batu 17
+- [ ] JP J jeja wi
+- [ ] Kangar
+- [ ] Kayangan Square
+- [ ] Kedah Medical C entr e
+- [ ] Kelab R oyal K edah
+- [ ] Kem Sultan Abdul Halim
+- [ ] Kem Tok Jalai
+- [ ] Kemas SMK Dat o Sheikh Ahma d
+- [ ] Kg Alor Ar a 1
+- [ ] Kg Alor Ar a 2
+- [ ] Kg Alor Marus
+- [ ] Kg Alor Senjaya
+- [ ] Kg Baru 1Kg Baru 2
+- [ ] Kg Baru 3
+- [ ] Kg Baru Guar NangkaKuar ters P enjar a Ar au
+- [ ] Kg Baru K ok Klang
+- [ ] Kg Baru Lubuk Machang
+- [ ] Kg Behor Gandil
+- [ ] Kg Behor Lateh
+- [ ] Kg Behor Mali
+- [ ] Kg Behor Temak
+- [ ] Kg Beseri/Temiang
+- [ ] Kg Bukit Kechik
+- [ ] Kg Hutan Setali (1)
+- [ ] Kg Hutan Setali (2)
+- [ ] Kg Jelompok
+- [ ] Kg Jerlun
+- [ ] Kg Kandis
+- [ ] Kg Kelompang
+- [ ] Kg K esinai
+- [ ] Kg K ubang Gajah
+- [ ] Kg L ubuk
+- [ ] Kg ManggolBERNA S
+- [ ] Kg Paya K ela di
+- [ ] Kg Paya Senduk
+- [ ] Kg Penghulu Choh
+- [ ] Kg Pochan
+- [ ] Kg Putat
+- [ ] Kg Salang
+- [ ] Kg Sena DalamSimpang F elda Mata Air
+- [ ] Kg Seri Aman
+- [ ] Kg Seri K esinai
+- [ ] Kg Sg Bugis
+- [ ] Kg Sg Serai
+- [ ] Kg Surau
+- [ ] Kg Teluk Batu 5Simpang Tiga Pa dang Besar Selatan
+- [ ] Kg Titi Ser ong
+- [ ] Kg Titi Ulu
+- [ ] Khairiyah Al Halimiah
+- [ ] Kilang Gula
+- [ ] Kilang Padi Jasmine
+- [ ] Klinik D esa Behor Lat eh
+- [ ] Klinik Desa Guar Sanji
+- [ ] Klinik Desa Sanglang Kedah
+- [ ] Klinik Desa Seberang Ramai
+- [ ] Klinik Kesihatan
+- [ ] Klinik Kesihatan Jalan Putra
+- [ ] Klinik Kesihatan Kaki Bukit
+- [ ] Klinik Kesihatan Kuala Sanglang
+- [ ] Klinik Kesihatan Pa dang Besar
+- [ ] Klinik Tunjang
+- [ ] Kodiang Lama
+- [ ] Kok Mak
+- [ ] Kolej Jurur awat
+- [ ] Kolej Mar a K uala Ner ang
+- [ ] Kompleks Islam Perlis
+- [ ] Kompleks Perniagaan Alor Ja ggus
+- [ ] Kompleks Perniagaan Kuala Perlis
+- [ ] Kompleks Perniagaan Mergong Jaya
+- [ ] Kompleks Per tanian
+- [ ] Kompleks Simpang Empat MPK
+- [ ] Kompleks Sukan
+- [ ] Kota Siputeh
+- [ ] KPJ Kangar
+- [ ] Kr af tangan Mala ysia
+- [ ] Kr af tangan Malaysia
+- [ ] KTM Ar au
+- [ ] KTM Padang Besar
+- [ ] Kuari Gunung Medan
+- [ ] La dang Burung Unta
+- [ ] LHDN Sungai Petani
+- [ ] LKIM
+- [ ] Lotus Sg Petani
+- [ ] Madr asah N adr ah Hasanah
+- [ ] Majlis P erbandar an Kangar (Jeja wi)
+- [ ] Makam Dir aja
+- [ ] Maktab Mahmud
+- [ ] Masjid Al-Azim
+- [ ] Masjid Al-Hidayah
+- [ ] Masjid Al-Husni Batu Bertangkup
+- [ ] Masjid Al-Islah
+- [ ] Masjid Al-Mahmudi
+- [ ] Masjid Al-Mursyid
+- [ ] Masjid Al-Nur
+- [ ] Masjid Assobirin
+- [ ] Masjid Ibnu Sina Per awan Dato Kayaman
+- [ ] Masjid Jabal Al- Ala
+- [ ] Masjid Jamek Al- Abidi
+- [ ] Masjid Kg Simpang Empat Kuar
+- [ ] Masjid Muhamma di
+- [ ] Masjid Nurul Huda Felda Chuping
+- [ ] Masjid Padang Per ahu
+- [ ] Masjid Sharifah Fatimah
+- [ ] Masjid Sirajuddin
+- [ ] Masjid Tun Abdul Razak
+- [ ] Masjid UsmaniahKok Mak
+- [ ] Medan Pekan Arau
+- [ ] Mega Star Inn
+- [ ] Melele
+- [ ] MRSM BerseriIKM BeseriPerkubur an Cina Berseri
+- [ ] Mydin
+- [ ] Nat Pokok Getah
+- [ ] Ngulang Selatan
+- [ ] Padang Pauh
+- [ ] Padang Per ahu
+- [ ] Padang Sera
+- [ ] Panggung Wayang
+- [ ] Pantai Johor
+- [ ] Pasar Besar Arau
+- [ ] Pasar Titi Chai
+- [ ] Paya 1
+- [ ] Paya 2
+- [ ] Paya 3
+- [ ] Paya 4
+- [ ] Paya BurmaKg K ok Klang
+- [ ] Pejabat Daer ah
+- [ ] Pejabat Penghulu Bkt Tunjang
+- [ ] Pejabat Pos Laju
+- [ ] Pekan Jitra
+- [ ] Pekan Kecil Kuala Sungai
+- [ ] Pekan Kerpan
+- [ ] Pekan Pauh
+- [ ] Pekan Tunjang (1)
+- [ ] Pekan Tunjang (2)
+- [ ] Penjara
+- [ ] Per kuburan Cina Berseri
+- [ ] Per tubuhan P ela dang
+- [ ] Per tubuhan Peladang
+- [ ] Permatang Bongor
+- [ ] Plaza Kuala
+- [ ] Politeknik Syed Sirajuddin
+- [ ] Pusat K or eksional P erlis
+- [ ] Pusat Ser enti
+- [ ] Pusat Vet erinar
+- [ ] RTM Padang Pauh
+- [ ] RTC Hosba
+- [ ] Rumah Kanak -Kanak Ar au
+- [ ] Sanglang
+- [ ] Sek Agama Al-Islahiyah
+- [ ] Sempadan Perlis - Kedah
+- [ ] Sg Batu Hampar
+- [ ] Sg Jar om
+- [ ] Sg Padang
+- [ ] Shahab Perdana
+- [ ] Shell Simpang Empat
+- [ ] Simpang Gunung Medan
+- [ ] Simpang Jenalik
+- [ ] Simpang Kilang Gula
+- [ ] Simpang P enjar a Ar au
+- [ ] Simpang Padang Keria
+- [ ] Simpang Padang Siding
+- [ ] Simpang Tasik Melati
+- [ ] Simpang Tiga Bemban
+- [ ] Simpang Tiga Sg Baru
+- [ ] Simpang Tok Tina Aluih
+- [ ] Sintok
+- [ ] SJKC Chin Hun
+- [ ] SJKC Hw a Aik
+- [ ] SJKC Khoo Aik
+- [ ] SK Bandar Baru Sintok
+- [ ] SK Batu Bertangkup
+- [ ] SK Behor Mali
+- [ ] SK Beseri
+- [ ] SK Dato Kayaman
+- [ ] SK Guar NangkaKg Baru Guar Nangka
+- [ ] SK Hosba
+- [ ] SK Jejawi
+- [ ] SK KayangKg Titi Ser ong
+- [ ] SK Kodiang
+- [ ] SK Kubang Gajah
+- [ ] SK Paya
+- [ ] SK Raja Syed Alwi
+- [ ] SK Sanglang Kedah
+- [ ] SK Seri Perlis
+- [ ] SK Titi Gajah
+- [ ] SK Tunjang
+- [ ] SK Utan Aji
+- [ ] SMA ALMA AD
+- [ ] SMA Titi Besi
+- [ ] SMK Changlun
+- [ ] SMK Derma
+- [ ] SMK Hutan Kampung
+- [ ] SMK Kepala Batas
+- [ ] SMK Kuala Perlis
+- [ ] SMK Paya Kemunting
+- [ ] SMK Pulau NyiorBatu 14
+- [ ] SMK Raja Puan Muda Tengku Fauziah
+- [ ] SMK Sanglang
+- [ ] SMK Syed Alwi
+- [ ] SMK Syed Hassan
+- [ ] SMK Sy ed Sir ajuddin
+- [ ] SMK Tuanku Lailatul Shahr een
+- [ ] SM Sains Kubang Pasu
+- [ ] Sta dium Darul Aman
+- [ ] Stesen Bas Kuala Perlis
+- [ ] Tabung Haji Seriab
+- [ ] Taman Bahagia 2
+- [ ] Taman Berseri Paya
+- [ ] Taman Bunga Kekwa
+- [ ] Taman Cahaya
+- [ ] Taman Desa Pulai
+- [ ] Taman Emas
+- [ ] Taman Hidayah
+- [ ] Taman Indera Indah
+- [ ] Taman Jelempok Ja ya
+- [ ] Taman Jelutung
+- [ ] Taman K enanga
+- [ ] Taman Kastam Dua
+- [ ] Taman Kastam Tiga
+- [ ] Taman Kemajuan
+- [ ] Taman Medan Sepakat
+- [ ] Taman Midin Indah
+- [ ] Taman Mawar
+- [ ] Taman Norma
+- [ ] Taman Pa dang Nyu 1
+- [ ] Taman Penaga
+- [ ] Taman Pr ogr esif
+- [ ] Taman Ria 1Klinik K esihatan Gail
+- [ ] Taman Sena
+- [ ] Taman Sena Indah
+- [ ] Taman Seri Changlun
+- [ ] Taman Seri Medan
+- [ ] Taman Seri Nyior
+- [ ] Taman Sri Wang
+- [ ] Terminal Bukit Lagi Kangar
+- [ ] Terminal Changlun
+- [ ] Titi GajahTaman D esa Mutiar a
+- [ ] Titi Tinggi
+- [ ] Tok MekSema dong
+- [ ] Tok Pulau
+- [ ] UPP Chuping
+- [ ] UUM
+- [ ] UniMAP Bio Pr oses
+- [ ] UniMAP Jeja wi
+- [ ] UniMAP K ubang Gajah
+- [ ] UniMAP Pauh
+- [ ] Uniciti 1
+- [ ] Uniciti 2
+- [ ] Warung Kak Eta
+- [ ] Wat Boonyar am
+- [ ] Wisma Kancut
+- [ ] Yawata
