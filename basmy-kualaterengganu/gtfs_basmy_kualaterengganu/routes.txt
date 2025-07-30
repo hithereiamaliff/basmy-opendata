@@ -1,0 +1,10 @@
+route_id,agency_id,route_short_name,route_long_name,route_type
+T10,basmykt,T10,"Kuala Terengganu - Jeti Merang",3
+T11A,basmykt,T11A,"Kuala Terengganu - Batu Rakit",3
+T11B,basmykt,T11B,"Kuala Terengganu - Batu Rakit",3
+T20,basmykt,T20,"Kuala Terengganu - Bukit Payung via Pasir Panjang",3
+T21,basmykt,T21,"Kuala Terengganu - Bukit Payung via Sungai Rengas",3
+T22,basmykt,T22,"Kuala Terengganu - Kuala Berang",3
+T30,basmykt,T30,"Kuala Terengganu - Marang via Chenderiang",3
+T31,basmykt,T31,"Kuala Terengganu - Marang via Kedai Buluh",3
+T100,basmykt,T100,"Kuala Terengganu Feeder",3

@@ -1,0 +1,23 @@
+route_id,agency_id,route_short_name,route_long_name,route_type
+M10A,basmymk,M10A,"Melaka Sentral - UTeM via Batu Berendam",3
+M10A_2,basmymk,M10A,"Melaka Sentral - UTeM via Bukit Beruang",3
+M11,basmymk,M11,"Melaka Sentral - Bukit Katil",3
+M12,basmymk,M12,"Melaka Sentral - Batu Berendam Airport",3
+M13,basmymk,M13,"Melaka Sentral - Taman Inang Sari",3
+M14,basmymk,M14,"Melaka Sentral - Tanjung Minyak Perdana",3
+M15,basmymk,M15,"Melaka Sentral - Pulau Gadong",3
+M16,basmymk,M16,"Melaka Sentral - Paya Luboh",3
+M17,basmymk,M17,"Melaka Sentral - Tangga Batu",3
+M20,basmymk,M20,"Melaka Sentral - Tampin via Alor Gajah",3
+M20X,basmymk,M20X,"Terminal Alor Gajah - Melaka Sentral",3
+M21,basmymk,M21,"Melaka Sentral - Tampin via Durian Tunggal",3
+M21X,basmymk,M21X,"Alor Gajah - Melaka Sentral via Durian Tunggal",3
+M22,basmymk,M22,"Melaka Sentral - Bandar Vendor",3
+M23,basmymk,M23,"Melaka Sentral - Pengkalan Balak",3
+M23X,basmymk,M23X,"Masjid Tanah - Melaka Sentral",3
+M30,basmymk,M30,"Melaka Sentral - Batang Melaka via Selandar",3
+M31,basmymk,M31,"Melaka Sentral - Batang Melaka via Tebong",3
+M32,basmymk,M32,"Melaka Sentral - Jasin",3
+M33,basmymk,M33,"Jasin - Taman Seri Asahan",3
+M100,basmymk,M100,"Bandaraya Melaka Feeder",3
+M101,basmymk,M101,"Pasar Melaka Feeder",3

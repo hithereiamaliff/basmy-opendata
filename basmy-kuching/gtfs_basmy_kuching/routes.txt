@@ -1,0 +1,11 @@
+route_id,agency_id,route_short_name,route_long_name,route_type
+Q01B,basmykc,Q01B,"Malihah",3
+Q02B,basmykc,Q02B,"SMK Matang Jaya",3
+Q03M,basmykc,Q03M,"King Centre",3
+Q04M,basmykc,Q04M,"Bako",3
+Q05M,basmykc,Q05M,"SMK Agama Matang",3
+Q06M,basmykc,Q06M,"Kampung Benuk",3
+Q07M,basmykc,Q07M,"Batu Kawa",3
+Q08M,basmykc,Q08M,"Bau",3
+Q09B,basmykc,Q09B,"Muara Tebas",3
+Q10M,basmykc,Q10M,"Serian",3

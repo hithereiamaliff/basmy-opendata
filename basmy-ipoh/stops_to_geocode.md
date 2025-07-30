@@ -1,0 +1,454 @@
+# BAS.MY Ipoh Stops for Geocoding
+
+This file contains a list of unique bus stops and landmarks extracted from the `map-basmyipoh.pdf`. The next step is to find the latitude and longitude for each of these locations.
+- [ ] ACS Ipoh
+- [ ] Aeon Ipoh
+- [ ] Aeon Jalan Jambu
+- [ ] Aeon Kinta City
+- [ ] Aeon Klebang
+- [ ] Aeon Station 18
+- [ ] Akademi
+- [ ] Alor Merah
+- [ ] Aman Central
+- [ ] Amanjaya Ipoh
+- [ ] Angsana Mall
+- [ ] Apartment KCS
+- [ ] Arked Batu Gajah
+- [ ] Balai Polis Batu Gajah
+- [ ] Balai Polis Bercham
+- [ ] Balai Polis Kg Baru Buntung
+- [ ] Balai Polis Lahat
+- [ ] Balai Polis Pasir Puteh
+- [ ] Balai Polis Taman Rishah
+- [ ] Bandar Baru Kampar 1
+- [ ] Bandar Baru Kampar 2
+- [ ] Bandar Baru Putra
+- [ ] Bandar Baru Tambun
+- [ ] Bangunan Seri Kinta
+- [ ] Bank Islam Ipoh
+- [ ] Batu 6
+- [ ] Batu 9
+- [ ] Batu 10 Chemor
+- [ ] Batu 20
+- [ ] Batu 25
+- [ ] Batu 26
+- [ ] Batu Gajah
+- [ ] Batu Karang 1
+- [ ] Batu Karang 2
+- [ ] Bemban
+- [ ] Bemban Raya
+- [ ] Bercham
+- [ ] BHP Chemor
+- [ ] BHP Jalan Tambun
+- [ ] BHP Kuala Kangsar
+- [ ] Billion Seri Iskandar
+- [ ] Billion Silibin
+- [ ] BSN
+- [ ] Bukit Merah
+- [ ] Caltex Jalan Kamaruddin Isa
+- [ ] Caltex Sungai Pari
+- [ ] Carsem M Site
+- [ ] Changkat Kinding
+- [ ] Chemor Ria
+- [ ] Church of Lady Lourdes
+- [ ] CIMB Bank Silibin
+- [ ] CIMB Greentown
+- [ ] Dato Sagor
+- [ ] Desa Pakatan 1
+- [ ] Desa Pakatan 2
+- [ ] Desa Pakatan 3
+- [ ] Desa Rishah
+- [ ] Dewan Komuniti 1 Malaysia
+- [ ] Dovenby Estate 1
+- [ ] Dovenby Estate 2
+- [ ] Econsave Chepor
+- [ ] Econsave Jelapang
+- [ ] Econsave Klebang
+- [ ] Enggor
+- [ ] Eu Yan Sang
+- [ ] Falim
+- [ ] Flat Ashby Road
+- [ ] Flat Harmoni
+- [ ] Flat Pakatan 1
+- [ ] Flat Pakatan 2
+- [ ] Flat Perpaduan
+- [ ] Flat Taman Mewah
+- [ ] Food 66
+- [ ] Gayathiri Silibin
+- [ ] Gerbang Malam
+- [ ] Gereja Methodist Tamil Bercham
+- [ ] Giatmara Tambun
+- [ ] Gopeng
+- [ ] Gunung Lang
+- [ ] Gunung Rapat
+- [ ] Hentian Bas Medan Gopeng
+- [ ] Hentian UiTM
+- [ ] Hospital Fatimah
+- [ ] Hospital Raja Permaisuri Bainun
+- [ ] Hospital Sungai Siput
+- [ ] Hovid
+- [ ] Hugh Low Street
+- [ ] Hyundai
+- [ ] IG
+- [ ] Impiana Hotel
+- [ ] India Temple
+- [ ] Industri Bemban 1
+- [ ] Industri Bemban 2
+- [ ] Industri Bukit Merah
+- [ ] Ipoh Garden Church
+- [ ] Ipoh Garden East
+- [ ] Ipoh Garden Square
+- [ ] Ipoh Grove
+- [ ] Ipoh Jaya
+- [ ] Ipoh Motor
+- [ ] Ipoh Parade
+- [ ] Jabatan Kimia Malaysia
+- [ ] Jalan Madrasah
+- [ ] Jalan Sultan Iskandar
+- [ ] JKR Ipoh
+- [ ] JPJ Negeri Perak
+- [ ] Kamdar Jalan Raja Musa Aziz
+- [ ] Kampar
+- [ ] Kanthan 1
+- [ ] Kanthan 2
+- [ ] Kanthan 3
+- [ ] Kanthan Baru
+- [ ] Kawasan Industri Ringan Bercham
+- [ ] Kawasan Perindustrian Chadan Raya
+- [ ] Kawasan Perindustrian Lahat 1
+- [ ] Kawasan Perindustrian Lahat 2
+- [ ] Kawasan Perindustrian Pengkalan Pegoh 1
+- [ ] Kawasan Perindustrian Pengkalan Pegoh 2
+- [ ] Kedai Cik Wan
+- [ ] Kg Bahagia
+- [ ] Kg Baru Bukit Merah
+- [ ] Kg Baru Kuala Kuang
+- [ ] Kg Buntong 3
+- [ ] Kg Chepor
+- [ ] Kg Gunung Mesah Hilir 1
+- [ ] Kg Gunung Mesah Hilir 2
+- [ ] Kg Gunung Mesah Hulu
+- [ ] Kg Gunung Panjang 1
+- [ ] Kg Gunung Panjang 2
+- [ ] Kg Jeram
+- [ ] Kg Jelapang Lama
+- [ ] Kg Kepayang
+- [ ] Kg Kuala Dipang
+- [ ] Kg Lawan Kuda
+- [ ] Kg Lumpur
+- [ ] Kg Manjoi
+- [ ] Kg Melayu Batu 8
+- [ ] Kg Muhibbah
+- [ ] Kg Nyor
+- [ ] Kg Pasir
+- [ ] Kg Pengkalan Pegoh 1
+- [ ] Kg Pengkalan Pegoh 2
+- [ ] Kg Pulai
+- [ ] Kg Rimba Panjang
+- [ ] Kg Sengat
+- [ ] Kg Simee
+- [ ] Kg Sungai Tapah 1
+- [ ] Kg Sungai Tapah 2
+- [ ] Kg Teli
+- [ ] Kg Tengah
+- [ ] Kg Tersusun Batu 8
+- [ ] Kg Tersusun Tasek 1
+- [ ] Kg Tersusun Tasek 2
+- [ ] Kg Tersusun Tanah Hitam
+- [ ] KIA Falim
+- [ ] Kilang Carsem
+- [ ] Kilang FT Hose & Hose Sdn Bhd
+- [ ] Kilang Kicap Tamin
+- [ ] Kilang Kin Heng Timber Industries Sdn Bhd
+- [ ] Kilang MAPA
+- [ ] Kilang Minyak A at
+- [ ] Kilang Simen
+- [ ] Kilang Yeo's
+- [ ] Klebang Jaya
+- [ ] Klebang Restu
+- [ ] Klinik 1 Malaysia Bercham
+- [ ] Klinik Desa Gunung Panjang
+- [ ] Klinik Kesihatan Bercham
+- [ ] Klinik Kesihatan Buntong
+- [ ] Klinik Kesihatan Desa Simpang Pulai
+- [ ] Klinik Kesihatan Gopeng
+- [ ] Klinik Kesihatan Jelapang
+- [ ] Klinik Kesihatan Kg Simee
+- [ ] Klinik Kesihatan Sungai Siput
+- [ ] Klinik Kesihatan Tanah Hitam
+- [ ] Klinik Kesihatan Tanjong Rambutan
+- [ ] Klinik Kesihatan Tronoh
+- [ ] Kolej Kemas
+- [ ] Kolej Maxwell
+- [ ] Kompleks Sukan Ping Pong Dan Badminton Bercham
+- [ ] Kondo Raya Ria
+- [ ] Kopisan
+- [ ] Kuan Ti Temple
+- [ ] Kuarters KTM
+- [ ] Kuboi
+- [ ] Lahat
+- [ ] Lahat Rima
+- [ ] Lapangan Siber
+- [ ] Lip Soon Car / Poh Thai Motor
+- [ ] Loji Air Kota Lama 1
+- [ ] Loji Air Kota Lama 2
+- [ ] Maahad Al Ummah
+- [ ] Manjoi
+- [ ] Maybank Ampang
+- [ ] Maybank Batu Gajah
+- [ ] Maybank Greentown
+- [ ] Maybank Silibin
+- [ ] Maybank Sungai Siput
+- [ ] Medan Kidd
+- [ ] Medan Lahat Baru
+- [ ] Medan Pengkalan Impian
+- [ ] Medan Pengkalan Ria
+- [ ] Medan Selera Taman Kanak-Kanak
+- [ ] Medan Selera Taman Mas
+- [ ] Menglembu
+- [ ] Monex Timber
+- [ ] Old Town Gunung Rapat
+- [ ] Oldtown
+- [ ] Padang Ampang 1
+- [ ] Padang Ampang 2
+- [ ] Padang Taman Pertama
+- [ ] Papan
+- [ ] Pasar Ayam
+- [ ] Pasar Awam Ampang Baru
+- [ ] Pasar Bercham
+- [ ] Pasar Bina 1
+- [ ] Pasar Bina 2
+- [ ] Pasar Borong 1
+- [ ] Pasar Borong 2
+- [ ] Pasar Gunung Rapat
+- [ ] Pasar Jelapang
+- [ ] Pasar Menglembu
+- [ ] Pasar Pasir Puteh
+- [ ] Pasar Pengkalan
+- [ ] PCSH
+- [ ] Pejabat Agama Islam
+- [ ] Pejabat Kebajikan Masyarakat Daerah Kinta
+- [ ] Pejabat Pos Jalan Dato' Lau Pak Khuan
+- [ ] Pejabat SUK Negeri Perak
+- [ ] Pekan Baru
+- [ ] Pekan Baru / The Store
+- [ ] Pekan Chemor
+- [ ] Pekan Karai
+- [ ] Pekan Lama
+- [ ] Pekan Pusing
+- [ ] Pekan Razaki
+- [ ] Pekan Sungai Siput 1
+- [ ] Pekan Sungai Siput 2
+- [ ] Pekan Tambun
+- [ ] Pekan Tanjong Rambutan
+- [ ] Pengkalan Pegoh Seberang
+- [ ] Pengkalan Sentosa
+- [ ] Perak Tong
+- [ ] Percetakan Nasional
+- [ ] Persatuan Pemulihan Sultan Azlan Shah
+- [ ] Perumahan Pegawai Kastam Bercham
+- [ ] Perumahan Pegawai Kastam Fair Park
+- [ ] Perumahan Pegawai Kastam Silibin
+- [ ] Perumahan Pegawai Tentera Jalan Tambun
+- [ ] Petron Ampang
+- [ ] Petron Bercham
+- [ ] Petron Pasir Puteh
+- [ ] Petronas Jelapang
+- [ ] Petronas Klebang
+- [ ] Petronas Pasir Puteh
+- [ ] PHL
+- [ ] Politeknik Ungku Omar
+- [ ] Prima Matel
+- [ ] Proton Pulai Heights
+- [ ] Public Bank Jalan Sultan Idris Shah
+- [ ] Pusat Ikan Hiasan
+- [ ] Pusat Komersil Jalan Perpaduan
+- [ ] Pusat Latihan Askar Wataniah
+- [ ] Pusing
+- [ ] Puspakom
+- [ ] Quest International University Perak
+- [ ] Restoran East Ocean
+- [ ] Restoran Sahul
+- [ ] RHB Greenhill
+- [ ] Royal China
+- [ ] Royal Perak Golf Club
+- [ ] RTC Gopeng
+- [ ] Ruby Jalan Raja Musa Aziz
+- [ ] Rumah Anak Yatim Kota Lama
+- [ ] Rumah Orang-Orang Tua Simee
+- [ ] Salak Baru 1
+- [ ] Salak Baru 2
+- [ ] Salak Lama 1
+- [ ] Salak Lama 2
+- [ ] Salak Lama 3
+- [ ] Sam Poh Tong Temple
+- [ ] Sekolah Agama Rakyat Ittihadiah
+- [ ] Sekolah Izzuddin Shah
+- [ ] Sekolah Methodist
+- [ ] Sekolah Raja Perempuan Ta'ayah
+- [ ] Sen Heng Pasir Puteh
+- [ ] Sengat
+- [ ] Seri Iskandar
+- [ ] Seri Margosa
+- [ ] Seri Tecoma
+- [ ] Sg Buluh Sungai Siput
+- [ ] Shell Jalan Raja Permaisuri Bainun
+- [ ] Shell Jalan Tambun
+- [ ] Sidney Industries Sdn Bhd
+- [ ] Simpang Cameron Highlands
+- [ ] Simpang Gua Tempurung
+- [ ] Simpang Jalan Imam Ibrahim
+- [ ] Simpang Jambatan Sayong
+- [ ] Simpang Karai
+- [ ] Simpang Pasir Puteh
+- [ ] Simpang Pulai
+- [ ] Simpang Sayong
+- [ ] Siputeh
+- [ ] SJK Siputeh
+- [ ] SJKC Bercham
+- [ ] SJKC Gunung Rapat
+- [ ] SJKC Kg Rimba Panjang
+- [ ] SJKT Kerajaan Ipoh
+- [ ] SJKT Methodist Buntong
+- [ ] SJKT Perak Sangeetha
+- [ ] SJKT Simee
+- [ ] SK Buntong
+- [ ] SK Methodist Girls School
+- [ ] SK Padang Ampang
+- [ ] SK Pakatan Jaya
+- [ ] SK Pengkalan
+- [ ] SK Pengkalan Pegoh 1
+- [ ] SK Pengkalan Pegoh 2
+- [ ] SK Seri Ampang
+- [ ] SK Seri Kepayang Fair Park
+- [ ] SK Setia Jaya
+- [ ] SK St. Michael
+- [ ] SK Sri Kinta Ipoh
+- [ ] SK Tanjong Rambutan
+- [ ] SK Tasek Dermawan
+- [ ] SLEI
+- [ ] SM Gunung Rapat
+- [ ] SM St. Michael
+- [ ] SMJK Shin Chung
+- [ ] SMJKC Yuk Choy
+- [ ] SMJK Perempuan Perak
+- [ ] SMK Anderson
+- [ ] SMK Jalan Pasir Puteh
+- [ ] SMK Pinji
+- [ ] SMK Seri Ampang
+- [ ] SMK Shen Jai
+- [ ] SMK Sultan Yusuf
+- [ ] SMK Tanjong Rambutan
+- [ ] Sri Desa
+- [ ] Sri Klebang
+- [ ] Sri Maju
+- [ ] Sri Raia
+- [ ] Stesen Bas Gopeng
+- [ ] Stesen Bas Kuala Kangsar
+- [ ] Stesen KTM Ipoh
+- [ ] Stadium Negeri Perak
+- [ ] STAR Ipoh Learning & Training Institute Sdn Bhd / Perpustakaan
+- [ ] Symphony Suites Hotel
+- [ ] Tai Tung
+- [ ] Taiko/Taman Pinji Mewah
+- [ ] Taiwa
+- [ ] Taman Anggerik
+- [ ] Taman Bahagia
+- [ ] Taman Bemban Awam
+- [ ] Taman Berjaya Baru
+- [ ] Taman Boon Bak
+- [ ] Taman Cempaka 1
+- [ ] Taman Cempaka 2
+- [ ] Taman Chepor Indah
+- [ ] Taman Desa Aman
+- [ ] Taman Desa Kencana 1
+- [ ] Taman Desa Kencana 2
+- [ ] Taman Gelombang
+- [ ] Taman Gopeng
+- [ ] Taman Gunung View
+- [ ] Taman Hartawan
+- [ ] Taman Indah
+- [ ] Taman Intan Jaya
+- [ ] Taman Ipoh Boulevard Timur
+- [ ] Taman Ipoh Indah
+- [ ] Taman Ipoh Perdana
+- [ ] Taman Jati
+- [ ] Taman Jothi
+- [ ] Taman Kledang
+- [ ] Taman Kledang Emas
+- [ ] Taman Kledang Permai
+- [ ] Taman Kledang Utara
+- [ ] Taman Maju
+- [ ] Taman Maju Rapat
+- [ ] Taman Makmur
+- [ ] Taman Medan Bercham 1
+- [ ] Taman Medan Bercham 2
+- [ ] Taman Meru Perdana
+- [ ] Taman Meru Permai
+- [ ] Taman Mewah
+- [ ] Taman Mewah / The Haven
+- [ ] Taman Pakatan 1
+- [ ] Taman Pakatan 2
+- [ ] Taman Pakatan 3
+- [ ] Taman Perdana
+- [ ] Taman Perak
+- [ ] Taman Perpaduan
+- [ ] Taman Perpaduan 1
+- [ ] Taman Perpaduan 2
+- [ ] Taman Pertama 1
+- [ ] Taman Pertama 2
+- [ ] Taman Pusing
+- [ ] Taman Putra Indah
+- [ ] Taman Putra Permai
+- [ ] Taman Ramai
+- [ ] Taman Rapat Damai
+- [ ] Taman Rapat Setia
+- [ ] Taman Ria
+- [ ] Taman Rishah 1
+- [ ] Taman Rishah 2
+- [ ] Taman Saikat
+- [ ] Taman Saujana
+- [ ] Taman Saujana Ipoh Jaya
+- [ ] Taman Silibin
+- [ ] Taman Siputeh Permai
+- [ ] Taman Soon Choon
+- [ ] Taman Star
+- [ ] Taman Sri Kurau
+- [ ] Taman Syabas
+- [ ] Taman Tau q
+- [ ] Taman Tekah
+- [ ] Taman Tinggi
+- [ ] Taman Tun Sambathan
+- [ ] Taman UK Raya
+- [ ] Taman Wang
+- [ ] Tambun
+- [ ] Tanjong Rambutan
+- [ ] Tasek
+- [ ] Telekom Tasek
+- [ ] Terminal 1 Kampar
+- [ ] Terminal Meru Raya
+- [ ] Teronoh
+- [ ] Tesco Extra Ipoh
+- [ ] Tesco Ipoh
+- [ ] Tesco Station 18 1
+- [ ] Tesco Station 18 2
+- [ ] Thowlee Pottery
+- [ ] TM Jelapang
+- [ ] TNB Silibin
+- [ ] Tokong Cina
+- [ ] Tokong Kuda
+- [ ] Tokong Pasir Puteh
+- [ ] Tokong Siam
+- [ ] Tokong Tow Soh Keong
+- [ ] Toyota
+- [ ] Ulu Kinta
+- [ ] Uplands
+- [ ] UTC Ipoh Perak
+- [ ] Veterinar
+- [ ] Waller Court
+- [ ] Wira Jaya Barat 1
+- [ ] Wira Jaya Barat 2
+- [ ] Wira Jaya Barat 3
+- [ ] Wira Jaya Barat 4
+- [ ] Wisma Perkeso
+- [ ] Wisma Tiger Lane
