@@ -8,6 +8,8 @@ The primary objective is to create high-quality, open GTFS datasets for BAS.MY s
 
 This initiative uses the existing GTFS data for Prasarana's Rapid Penang service, located in the [`prasarana-gtfs`](prasarana-gtfs) directory, as a reference and quality benchmark.
 
+NOTE: BAS.MY Johor Bahru is **excluded** as Causeway Link, the main operator, already hosted their GTFS data on [data.gov.my](https://developer.data.gov.my/realtime-api/gtfs-static).
+
 ## Current Status & Methodology
 
 The project is being executed in a phased approach for each city's network.
