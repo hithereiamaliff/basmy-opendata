@@ -1,0 +1,80 @@
+# BAS.MY Kota Bharu Stops for Geocoding
+
+This file contains a list of unique bus stops and landmarks extracted from the `𝐃𝟑𝟏 𝐊𝐎𝐓𝐀 𝐁𝐇𝐀𝐑𝐔 - 𝐌𝐄𝐑𝐀𝐍𝐓𝐈 (Stops List).txt`. The next step is to find the latitude and longitude for each of these locations.
+- [ ] Stesen Bas Kota Bharu
+- [ ] Padang Garong (Outbound)
+- [ ] SK Padang Garong (Outbound)
+- [ ] Muzium Negeri Kelantan (Outbound)
+- [ ] Bazar Tok Guru
+- [ ] Pejabat Pos Kota Bharu
+- [ ] Troika Kota Bharu
+- [ ] KB Mall
+- [ ] One Button Solution Sdn Bhd
+- [ ] KBCC
+- [ ] Petronas Pasir Pekan
+- [ ] SK Pasir Pekan
+- [ ] SMKA Falahiah Pasir Pekan
+- [ ] Maahad Muhammadi Pasir Pekan
+- [ ] SMK Mahmud Mahyidin
+- [ ] Kg Baru Luar
+- [ ] Hiok Lee
+- [ ] Lorong Kubur
+- [ ] SK Kutan
+- [ ] Kg Kutan 1
+- [ ] Kg Kutan 2
+- [ ] SMUA Al-Ulum
+- [ ] Kg Tendong
+- [ ] Balai Polis Tendong
+- [ ] SMK Tendong
+- [ ] SK Othman Talib
+- [ ] Kg Bechah / Jalan Chempaka
+- [ ] Kg Bechah / Jalan Melor
+- [ ] Masjid Hutan Chengal
+- [ ] Kolej Vokasional Pasir Mas
+- [ ] Wisma Bonda Jalan Tendong
+- [ ] Kg Kayu Tinggi 2
+- [ ] Kg Kayu Tinggi 1
+- [ ] Masjid Al-Taqwa Bunut Susu
+- [ ] KTM Bunut Susu
+- [ ] Kg Bechah Palas
+- [ ] Kg Binjal
+- [ ] Masjid As-Solohin Bechah Semak
+- [ ] Kubur Bechah Semak
+- [ ] SK Penggu
+- [ ] Kg Tok Limin
+- [ ] Kg Paya Ular
+- [ ] Kg Pangkal Kala
+- [ ] SK Pangkal Kala
+- [ ] Kg Apa Apa
+- [ ] Kg Alor Mengkuang
+- [ ] Kg Gelang Mas 2
+- [ ] Kg Gelang Mas
+- [ ] Kg Chat
+- [ ] Meranti
+- [ ] SMK Meranti
+- [ ] KK Meranti
+- [ ] Taman Kebun Raa
+- [ ] Kg Banggol Pak Mat 2
+- [ ] Kg Banggol Pak Mat 1
+- [ ] Masjid Bakong Luar
+- [ ] Kg Chabang Bakong
+- [ ] KK Pohon Tanjung
+- [ ] Kg Lubuk Kawah
+- [ ] Kg Gebeng
+- [ ] Paan Seafood
+- [ ] Kg Gajah Mati
+- [ ] Kg Banggol Perdana
+- [ ] Kg Banggol Ara
+- [ ] SK Banggol Chicha
+- [ ] Maahad Tahfiz Al-Asriah
+- [ ] SRI Al-Furqan
+- [ ] Kg Kubang Badak
+- [ ] Wisma KODMAS
+- [ ] SMK Pasir Mas
+- [ ] SK Sultan Ibrahim 1
+- [ ] Pasir Mas
+- [ ] SJKC Yok Eng
+- [ ] JPN Pasir Mas
+- [ ] Petronas Pasir Mas
+- [ ] Kompleks Mahkamah Pasir Mas
+- [ ] Terminal Bas Tasek Raja Pasir Mas

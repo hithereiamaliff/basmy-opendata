@@ -1,0 +1,17 @@
+route_id,agency_id,route_short_name,route_long_name,route_type
+D10,basmykb,D10,"Kota Bharu - Pengkalan Chepa",3
+D11,basmykb,D11,"Kota Bharu - Sabak via Kemumim",3
+D12,basmykb,D12,"Kota Bharu - Sabak via Airport",3
+D13,basmykb,D13,"Kota Bharu - Pantai Cahaya Bulan",3
+D20,basmykb,D20,"Kota Bharu - Pengkalan Kubor via Chabang 4",3
+D21,basmykb,D21,"Kota Bharu - Pengkalan Kubor via Tumpat",3
+D30,basmykb,D30,"Kota Bharu - Pasir Mas via Salor",3
+D31,basmykb,D31,"Kota Bharu - Pasir Mas via Meranti",3
+D32,basmykb,D32,"Kota Bharu - Rantau Panjang",3
+D40,basmykb,D40,"Kota Bharu - Jeli via Tanah Merah",3
+D50,basmykb,D50,"Kota Bharu - Bachok via Bukit Marak",3
+D51,basmykb,D51,"Kota Bharu - Jerteh via Pasir Puteh",3
+D52,basmykb,D52,"Kota Bharu - Kg Raja (Politeknik Besut) via Tok Bali",3
+D60,basmykb,D60,"Kota Bharu - Kuala Krai via Machang",3
+D61,basmykb,D61,"Kota Bharu - UiTM Machang",3
+D62,basmykb,D62,"Kota Bharu - Gua Musang",3

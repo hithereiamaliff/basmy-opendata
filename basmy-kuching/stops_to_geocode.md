@@ -1,481 +1,339 @@
 # BAS.MY Kuching Stops for Geocoding
 
-This file contains a list of unique bus stops and landmarks for the BAS.MY Kuching network. Please populate this file with the stop names as they appear on the route maps (e.g., `Q01B_Malihah (Route).jpg`).
+This file contains a list of unique bus stops and landmarks for the BAS.MY Kuching network. The next step is to find the latitude and longitude for each of these locations.
 
-Once this list is complete, the next step is to find the latitude and longitude for each of these locations.
-
-Stesen Bas Saujana
-Surau Darul Ibadah Malihah
-Ambank Satok
-Copal Satok
-Opposite Tabung Haji Satok
-Sego Precinct
-Opposite Maxis Centre Kuching
-Bangunan Marzuki
-Opposite Perodua Erazoom
-Taman Hussein
-Opposite Bangunan Marzuki
-Jalan Semarak
-Heritage Garden
-Opposite Jj Petshop
-Taman Sejoli
-Taman Dahlia
-Smk Petra Jaya
-Opposite Public Furniture
-Pendidikan Jalan Matang
-Opposite Taman Yen Yen
-Emart Matang
-Matang Batu 5
-Matang Jaya
-Opposite Masjid Nur Saadah Taman Heng Guan
-Jalan Belatok Malihah 1
-Taman Seri Makmur
-Sm Sains
-H&l Malihah
-Jalan Belatok Malihah 2
-Opposite Taman Sungai Tengah Valley Shoplot
-
-Open Air Market Kuching (Sementara)
-Ambank Satok
-Opposite Tabung Haji Satok
-Opposite Maxis Centre Kuching
-Opposite Perodua Erazoom
-Opposite Bangunan Marzuki
-Mami Cendol
-Jalan Perupok
-Pendidikan Jalan Matang
-Taman Sri Perkasa
-Taman Yen Yen
-Taman Lee Ling
-Emart Matang
-Taman Matang Jaya
-Smk Matang Jaya
-Copal Satok
-Sego Precinct
-Bangunan Marzuki
-Taman Hussein
-
-Stesen Bas Saujana
-Ambank Satok
-Kfc Jalan Satok
-Opposite Petronesa
-Jalan Rubber Barat 3
-Jalan Poh Kwong
-Jalan Poh Kwong Park 861
-Jalan Rpr Batu Kawah
-Opposite Lavizo
-Sunny Hill Batu Kawah
-Opposite Timberland Medical Centre
-Level Up (Rock Road)
-Court Mammoth
-Opposite Rock Road Seafood
-Indian Association (Temple)
-Jabatan Bekalan Air Luar Bandar Kuching
-Tm Batu Lintang
-Opposite Kuching Water Board
-Opposite Proton Ismaco
-The Spring
-Kompleks Bangunan Sultan Iskandar
-King Centre
-Opposite Badaruddin
-Kek Lapis Warisan
-Opposite Sarawak General Hospital
-Opposite Belia Dan Sukan
-Sunny Hill
-The Banquet Residence
-Opposite Everrise Batu 4
-Opposite Bedding & Co
-Srb Chung Hua Batu 4 1/2
-Jalan Datuk Bandar Mustapha
-Boulevard Shopping Mall
-Trinity Hub
-Timberland Medical Centre
-Maybank Jalan Laksamana Cheng Ho
-Jalan Laksamana Cheng Ho 2
-Jalan Laksamana Cheng Ho 1
-Mita Cake House Jalan Tun Jugah
-Kpdn Sarawak
-
-Stesen Bas Saujana
-Waterfront
-Chinese Museum
-Opposite Riverside
-Jalan Abell
-Opposite Sjk Chung Hua No.3
-Opposite Mbks
-Public Bank Padungan
-Toyota Borneo Mobility
-Subaru Kuching
-Opposite Chung Hua Middle No.1
-Petron Pending
-Jalan Kwong Lee Bank
-Smk Tun Abang Haji Openg
-Kampung Demak Baru Fasa 2
-Surau Khairul Amal
-Kolej Komuniti Santubong
-Demak Laut Industrial Park
-Sejingkat Seb Substation
-Sk Pajar Sejingkat
-Opposite Kampung Senari
-Smk Bako
-Terminal Bako
-
-Right Side Stops:
-Riverside Majestic
-Sjk Chung No.3
-Opposite Public Bank Padungan
-Opposite Toyota Borneo Mobility
-Opposite Subaru Kuching
-Chung Hua Middle School No.1
-Opposite Petron Pending
-Jalan Kwong Lee Bank
-Smk Tun Abang Haji Openg
-Kampung Demak Baru Fasa 1
-Dewan Badminton Demak
-Demak Industrial Park
-Taman Perindustrian Central Light
-Opposite Sejingkat Seb Substation
-Opposite Penview Convention Center
-Opposite Sk Pajar Sejingkat
-Opposite Tiong Nam
-Opposite Senari Port
-Bakeri Timber Sdn Bhd
-Opposite Smk Bako
-Taman Mesra Bako
-Dewan Serbaguna Kampung Hujrah
-Kampung Bako Indah
-
-Stesen Bas Saujana
-Ambank Satok
-Opposite Tabung Haji Satok
-Opposite Maxis Centre Kuching
-Opposite Perodua Erazoom
-Opposite Bangunan Marzuki
-Heritage Marzuki
-Taman Sejoli
-Smk Petrajaya
-Pendidikan Jalan Matang
-Emart Matang
-Taman Yen Yen
-Sjk Chung Hua Batu 7
-Unaco Matang
-Smk Sri Matang
-Copal Satok
-Sego Precinct
-Bangunan Marzuki
-Jalan Taman Hussein
-Opposite Public Furniture
-Opposite Taman Yen Yen
-Matang Batu 5
-Taman Suria Jaya
-Taman Makmur
-Opposite Sjk Chung Hua Batu 7
-Opposite Leong Mieng Enterprise
-Kolej Vokasional Matang
-Taman Sri Jaya
-Kampung Matang
-Opposite Masjid Darul Salam
-Kampung Matang Lot
-Taman Jublee Mas
-Kampung Sungai Atas Baru
-Family Park
-Politeknik Kuching Sarawak
-Smk Agama Matang 2
-
-Stesen Bas Saujana
-Smk St Teresa
-Jalan Tun Abang Haji Openg
-Sarawak General Hospital
-Lorenzo
-Jalan Rock
-Rock Road Seafood
-Opposite Smart Reader Rock Road
-Timberland Medical Centre
-Trinity Hub
-Boulevard Shopping Mall
-Jalan Dato Mohd Mustapha
-Opposite Jalan Semaba
-Farley Kuching
-Pasar Batu 7
-Jalan Penrissen
-Opposite Kem Penrissen
-Open Universiti Malaysia
-Opposite Rh Park Batu 9
-Kota Padawan
-Opposite Sjk Chung Hua Batu 10
-Opposite Church St Ann
-Opposite Rajah Charles Brooke Memorial Hospital
-Taman Borneo Height
-Bung Burau
-Tm Jalan Were
-Badaruddin
-Sarawak General Hospital
-Kozi Square
-Opposite Rock Road Seafood
-Court Mammoth
-Level Up Rock Road
-Opposite Timberland Medical Centre
-Sunny Hills
-The Banquet Residence
-Everise Batu 4
-Opposite Bedding & Co
-Sjk Chung Hua Batu 4 1/2
-Simpang Semaba
-Jsk Hardware
-Opposite Kuching Sentral
-Everwin Kota Sentosa
-Borneo House Museum
-Opposite Kota Sentosa
-Kem Penrissen 2
-Kem Penrissen
-Taman Sri Emas
-Majlis Perbandaran Padawan
-Sjk Chung Hua Batu 10
-Church St Ann
-Kampung Sri Arjuna
-Semenggoh National Park
-Pulapol Kuching
-Opposite Sjk Chung Hua Batu 15
-Kampung Punau
-Bung Burau
-Kampung Benuk
-
-Stesen Bas Saujana
-Ambang Satok
-Jalan Palm
-Balai Polis Badaruddin
-Sarawak General Hospital
-Opposite Sjk Chung Hua No.4 Kuching
-Carmelite Monastery
-Kompleks Belia Sukan
-Indian Association
-Opposite Forda
-Opposite Rock Road Seafood
-Pasar Batu 3
-Court Mammoth
-Everbright Park
-Level Up (Rock Road)
-Everbright Estate
-Opposite Timberland Medical Centre
-Lau Furniture
-Sunny Hills
-Mjc Batu Kawa
-Opposite Lavizo
-Shell Batu Kawa
-Opposite Lau Furniture
-Opposite Era Zoom Batu Kawa
-Mjc City 2
-Taman Kwong Thiong
-Mjc City 1
-Boulder Built
-Taman Desa Wira
-Tematu Hill
-Opposite D'public Square
-An Cheng Ho Quary
-Taman Chungnion Villa
-Opposite Elm Machinery Sdn Bhd
-Opposite Taman Shin Yu
-Sjk Chung Hua Batu Kawa
-Batu Kawa Commercial Center
-
-Stesen Bas Saujana
-Smk St Teresa
-Jalan Tun Abang Haji Openg
-Opposite Sarawak General Hospital
-Lorenzo
-Opposite Indian Association (Temple)
-Rock Road Seafood
-Opposite Smart Reader Jalan Rock
-Timberland Medical Centre
-Trinity Hub
-Boulevard Shopping Mall
-Jalan Dato Mohd Mustapha
-Jalan Datuk Amar Kalong Ningkan
-Farley Kuching
-Pasar Batu 7
-Sjk Chung Hua Keranji
-Buddhist Village
-Siniawan Baru
-Taman Siniawan 1
-Taman Siniawan 2
-Kampung Podam
-Smk Bau
-Opposite Sk St Stephen
-Pasar Bau
-Terminal Bas Bau
-Tm Jalan Were
-Badaruddin
-Sarawak General Hospital
-Kozi Square
-Opposite Rock Road Seafood
-Court Mammoth
-Level Up (Rock Road)
-Opposite Timberland Medical Centre
-Sunny Hills
-The Banquet Residence
-Opposite Everise Batu 4
-Opposite Bedding & Co
-Sjk Chung Hua Batu 4 1/2
-Simpang Semaba
-Sk Hardware
-Opposite Kuching Sentral
-Everwin Kota Sentosa
-Borneo House Museum
-Simpang Kampung Haji Baki
-Srb Chung Hua Batu 8 1/2
-Kampung Tematu
-Kampung Bumbok
-Opposite Kuching Water Board Treatment Plant
-Simpang Batu Kitang Lama
-Kampung Bukit Pancur
-Opposite Kampung Bunga Rampai
-Kampung Keranji
-Opposite Taman Siniawan
-Smk Paku
-Jalan Sjk Chung Hua Paku
-Jalan Bau - Kuching 1
-Opposite Taman Indah
-
-Open Air Market Kuching
-Riverside Majestic
-Waterfront
-Sjk Chung Hua No.3
-Chinese Museum
-Opposite Public Bank Padungan
-Opposite Riverside
-Opposite Toyota Mobility
-Jalan Abell
-Opposite Subaru Kuching
-Opposite Sjk Chung Hua No.3
-Chung Hua Middle School No.1
-Opposite Mbks
-Opposite Petron
-Public Bank Padungan
-Jalan Kwong Lee Bank
-Toyota Borneo Mobility
-Opposite Lembaga Lada Malaysia Hq
-Subaru Kuching
-Opposite Lembaga Lada Malaysia Trade
-Opposite Chung Hua Middle School No.1
-Opposite Sarawak Consolidated Industries Berhad
-Petron Pending
-Celcomdigi Berhad
-Lembaga Lada Malaysia Hq
-Jalan Kemajuan
-Lembaga Lada Malaysia Trade
-Opposite Medan Pelita
-Kolej Komuniti Santubong
-Opposite Sarawak Energy
-Demak Laut Industrial Park
-Rpr Demak Laut
-Sejingkat Seb Substation
-Demak Laut Industrial Park
-Sk Pajar Sejingkat
-Opposite Sejingkat Seb Substation
-Smk Bako
-Opposite Pcc Demak
-Opposite Kampung Bako
-Opposite Sk Pajar Sejingkat
-Terminal Bako
-Demak Industrial Park Roundabout
-Kampung Bako Indah
-Demak Industrial Park
-Dewan Serbaguna Kampung Hijrah
-Opposite Tiong Nam
-Taman Mesra Bako
-Kampung Senari
-Opposite Smk Bako
-Bakeri Timber Sdn Bhd
-Muara Tebas Intersection
-Kampung Muara Tebas
-
-Open Air Market, Kuching
-Waterfront
-Smk St Teresa
-Jalan Tun Abang Haji Openg
-Opposite Sarawak General Hospital
-Jkr Batu Lintang
-Tm Batu Lintang
-Opposite Kuching Water Board
-Opposite Proton Ismaco
-The Spring
-Bangunan Sultan Iskandar
-Arena Sukan
-Condo Flordale
-Opposite Vivacity Megamall
-Tabuan Jaya
-Emart Tabuan Jaya
-Pusat Jantung Sarawak
-Univista
-Hospital Unimas
-Batu 16 Kuching Serian
-Kampung Duras
-Institut Memandu Siburan
-Pasar Siburan
-Chung Hua Siburan
-Kompleks Sukan Padawan
-Opposite Unaco Siburan
-Beratok
-Sjk Tapah
-Taman Harmoni
-Kampung Rituh Labuan
-Kampung Rith Pelaman
-Simpang Jalan Kong Ping
-Sk Gemang
-Sjk Chung Hua Batu 29
-Sk Kampung Tian Mawang
-Sungai Mamat
-Simpang Jalan Ensengei
-Sjk Chung Hua Batu 32
-Tarat
-Tarat Jaya
-Kampung Muhibah
-Taman Ayer Manis
-Kampung Stabut
-Hospital Serian
-Ipd Serian
-Stesen Bas Serian
-Tm Jalan Were
-Jalan Badarudin
-Sarawak General Hospital
-Kozi Square
-Opposite Jkr Batu Lintang
-Bomba Batu Lintang
-Kuching Water Board
-Batu Lintang 2
-Batu Lintang 1
-St3
-Jalan Wan Alwi 2
-Jalan Wan Alwi 1
-Vivacity Megamall
-Tabuan Jaya
-Sarawak Skills
-Smk Tabuan Jaya
-Pusat Jantung Sarawak
-Unimas
-Jalan Batu 16 Kuching Serian
-Taman Duras
-Smk Siburan
-Siburan
-Ipd Padawan
-Unaco Siburan
-Beratok
-Sjkc Tapah
-Taman Harmoni
-Kampung Rituh Labuan
-Kampung Rith Mawang
-Opposite Simpang Jalan Kong Ping
-Gemang
-Kampung Lintang Baru
-Sjk Chung Hua 29
-Kampung Tian Mawang
-Sjk Chung Hua Batu 32
-Tarat
-Tarat Jaya
-Sjk Chung Hua Batu 35
-Sungai Rayang
-Opposite Kampung Muhibah
-Opposite Taman Ayer Manis
-Hospital Serian
-Roxy Hotel Serian
-Sarawak Energy Serian
+- [ ] 10 Avenue Square
+- [ ] 2 Residences
+- [ ] 8 Meranti 9 Residences
+- [ ] AEON Mall
+- [ ] Ambank Satok
+- [ ] An Cheng Ho Quary
+- [ ] Arena Sukan
+- [ ] Badaruddin
+- [ ] Bakeri Timber Sdn Bhd
+- [ ] Balai Polis Badaruddin
+- [ ] Bangunan Marzuki
+- [ ] Batu Kawa Commercial Center
+- [ ] Batu Lintang 1
+- [ ] Batu Lintang 2
+- [ ] Beratok
+- [ ] Blok 5 Jalan Semarak
+- [ ] Blok 7 Taman Semarak
+- [ ] Bomba Batu Lintang
+- [ ] Borneo House Museum
+- [ ] Boulder Built
+- [ ] Boulevard Shopping Mall
+- [ ] BS AMBANK SATOK
+- [ ] BS EMART MATANG
+- [ ] BS HERITAGE GARDEN
+- [ ] BS MATANG JAYA
+- [ ] BS OPP. BGN. MARZUKI
+- [ ] BS PENDIDIKAN JLN. MATANG
+- [ ] BS SATOK 1
+- [ ] BS SATOK 2
+- [ ] BS SATOK 3
+- [ ] BS SAUJANA
+- [ ] BS TMN. MALIHAH 1
+- [ ] BS TMN. MALIHAH 2
+- [ ] BS TMN. SEJOLI
+- [ ] Buddhist Village
+- [ ] Bung Burau
+- [ ] Carmelite Monastery
+- [ ] Celcomdigi Berhad
+- [ ] Central Park Apartment
+- [ ] Chinese Museum
+- [ ] Chung Hua Middle School No.1
+- [ ] Chung Hua Siburan
+- [ ] Church St Ann
+- [ ] CIMB Taman Semarak/Shell
+- [ ] Condo Flordale
+- [ ] Copal Satok
+- [ ] Court Mammoth
+- [ ] Demak Industrial Park
+- [ ] Demak Industrial Park Roundabout
+- [ ] Demak Laut Industrial Park
+- [ ] Dewan Badminton Demak
+- [ ] Dewan Serbaguna Kampung Hijrah
+- [ ] Emart Matang
+- [ ] Emart Tabuan Jaya
+- [ ] Everbright Estate
+- [ ] Everbright Park
+- [ ] Everise Batu 4
+- [ ] Everwin Kota Sentosa
+- [ ] Family Park
+- [ ] Family Store Seremban 2
+- [ ] Farley Kuching
+- [ ] Gemang
+- [ ] H&L Malihah
+- [ ] Heritage Garden
+- [ ] Heritage Marzuki
+- [ ] Hospital Serian
+- [ ] Hospital Unimas
+- [ ] Indian Association
+- [ ] Indian Association (Temple)
+- [ ] Institut Memandu Siburan
+- [ ] Ipd Padawan
+- [ ] Ipd Serian
+- [ ] Jabatan Bekalan Air Luar Bandar Kuching
+- [ ] Jalan Abell
+- [ ] Jalan Batu 16 Kuching Serian
+- [ ] Jalan Bau - Kuching 1
+- [ ] Jalan Belatok Malihah 1
+- [ ] Jalan Belatok Malihah 2
+- [ ] Jalan Datuk Bandar Mustapha
+- [ ] Jalan Dato Mohd Mustapha
+- [ ] Jalan Datuk Amar Kalong Ningkan
+- [ ] Jalan Kemajuan
+- [ ] Jalan Kwong Lee Bank
+- [ ] Jalan Laksamana Cheng Ho 1
+- [ ] Jalan Laksamana Cheng Ho 2
+- [ ] Jalan Palm
+- [ ] Jalan Penrissen
+- [ ] Jalan Poh Kwong
+- [ ] Jalan Poh Kwong Park 861
+- [ ] Jalan Perupok
+- [ ] Jalan Rock
+- [ ] Jalan Rpr Batu Kawah
+- [ ] Jalan Rubber Barat 3
+- [ ] Jalan Semarak
+- [ ] Jalan Sjk Chung Hua Paku
+- [ ] Jalan Taman Hussein
+- [ ] Jalan Tun Abang Haji Openg
+- [ ] Jalan Wan Alwi 1
+- [ ] Jalan Wan Alwi 2
+- [ ] Jkr Batu Lintang
+- [ ] Jsk Hardware
+- [ ] Kampung Bako Indah
+- [ ] Kampung Benuk
+- [ ] Kampung Bumbok
+- [ ] Kampung Demak Baru Fasa 1
+- [ ] Kampung Demak Baru Fasa 2
+- [ ] Kampung Duras
+- [ ] Kampung Keranji
+- [ ] Kampung Lintang Baru
+- [ ] Kampung Matang
+- [ ] Kampung Matang Lot
+- [ ] Kampung Muara Tebas
+- [ ] Kampung Muhibah
+- [ ] Kampung Podam
+- [ ] Kampung Punau
+- [ ] Kampung Rith Mawang
+- [ ] Kampung Rituh Labuan
+- [ ] Kampung Senari
+- [ ] Kampung Sri Arjuna
+- [ ] Kampung Stabut
+- [ ] Kampung Sungai Atas Baru
+- [ ] Kampung Tematu
+- [ ] Kampung Tian Mawang
+- [ ] Kfc Jalan Satok
+- [ ] King Centre
+- [ ] Klinik Kesihatan Batu Kawa
+- [ ] Kolej Komuniti Santubong
+- [ ] Kolej Vokasional Matang
+- [ ] Kompleks Bangunan Sultan Iskandar
+- [ ] Kompleks Belia Sukan
+- [ ] Kompleks Sukan Padawan
+- [ ] Kota Padawan
+- [ ] Kozi Square
+- [ ] Kpdn Sarawak
+- [ ] Kuching Water Board
+- [ ] Lau Furniture
+- [ ] Level Up (Rock Road)
+- [ ] Level Up Rock Road
+- [ ] Lorenzo
+- [ ] Majlis Perbandaran Padawan
+- [ ] Malihah
+- [ ] Mami Cendol
+- [ ] Matang Batu 5
+- [ ] Matang Jaya
+- [ ] Maybank Jalan Laksamana Cheng Ho
+- [ ] Mita Cake House Jalan Tun Jugah
+- [ ] Mjc Batu Kawa
+- [ ] Mjc City 1
+- [ ] Mjc City 2
+- [ ] Muara Tebas Intersection
+- [ ] Open Air Market Kuching
+- [ ] Open Air Market Kuching (Sementara)
+- [ ] Open Universiti Malaysia
+- [ ] Opposite Badaruddin
+- [ ] Opposite Bakeri Timber Sdn Bhd
+- [ ] Opposite Bangunan Marzuki
+- [ ] Opposite Bedding & Co
+- [ ] Opposite Belia Dan Sukan
+- [ ] Opposite BGN MARZUKI
+- [ ] Opposite Chung Hua Middle No.1
+- [ ] Opposite Church St Ann
+- [ ] Opposite D'public Square
+- [ ] Opposite Elm Machinery Sdn Bhd
+- [ ] Opposite Era Zoom Batu Kawa
+- [ ] Opposite Everrise Batu 4
+- [ ] Opposite Forda
+- [ ] Opposite Heritage Garden
+- [ ] Opposite Indian Association (Temple)
+- [ ] Opposite Jj Petshop
+- [ ] Opposite Kampung Bako
+- [ ] Opposite Kampung Bunga Rampai
+- [ ] Opposite Kampung Muhibah
+- [ ] Opposite Kampung Senari
+- [ ] Opposite Kem Penrissen
+- [ ] Opposite Kota Sentosa
+- [ ] Opposite Kuching Sentral
+- [ ] Opposite Kuching Water Board
+- [ ] Opposite Kuching Water Board Treatment Plant
+- [ ] Opposite Lavizo
+- [ ] Opposite Lembaga Lada Malaysia Hq
+- [ ] Opposite Lembaga Lada Malaysia Trade
+- [ ] Opposite Leong Mieng Enterprise
+- [ ] Opposite Masjid Darul Salam
+- [ ] Opposite Masjid Nur Saadah Taman Heng Guan
+- [ ] Opposite Maxis Centre Kuching
+- [ ] Opposite Mbks
+- [ ] Opposite Medan Pelita
+- [ ] Opposite Pcc Demak
+- [ ] Opposite Penview Convention Center
+- [ ] Opposite Perodua Erazoom
+- [ ] Opposite Petron
+- [ ] Opposite Petron Pending
+- [ ] Opposite Petronesa
+- [ ] Opposite Proton Ismaco
+- [ ] Opposite Public Bank Padungan
+- [ ] Opposite Public Furniture
+- [ ] Opposite Rajah Charles Brooke Memorial Hospital
+- [ ] Opposite Rh Park Batu 9
+- [ ] Opposite Riverside
+- [ ] Opposite Rock Road Seafood
+- [ ] Opposite Sarawak Consolidated Industries Berhad
+- [ ] Opposite Sarawak Energy
+- [ ] Opposite Sarawak General Hospital
+- [ ] Opposite Sejingkat Seb Substation
+- [ ] Opposite Senari Port
+- [ ] Opposite Simpang Jalan Kong Ping
+- [ ] Opposite Sjk Chung Hua Batu 10
+- [ ] Opposite Sjk Chung Hua Batu 15
+- [ ] Opposite Sjk Chung Hua No.3
+- [ ] Opposite Sjk Chung Hua No.4 Kuching
+- [ ] Opposite Sk Pajar Sejingkat
+- [ ] Opposite Sk St Stephen
+- [ ] Opposite Smart Reader Jalan Rock
+- [ ] Opposite Smart Reader Rock Road
+- [ ] Opposite Smk Bako
+- [ ] Opposite Tabung Haji Satok
+- [ ] Opposite Taman Ayer Manis
+- [ ] Opposite Taman Indah
+- [ ] Opposite Taman Shin Yu
+- [ ] Opposite Taman Siniawan
+- [ ] Opposite Taman Sungai Tengah Valley Shoplot
+- [ ] Opposite Taman Yen Yen
+- [ ] Opposite Timberland Medical Centre
+- [ ] Opposite Tiong Nam
+- [ ] Opposite Toyota Borneo Mobility
+- [ ] Opposite Toyota Mobility
+- [ ] Opposite Unaco Siburan
+- [ ] Opposite Vivacity Megamall
+- [ ] Park Residences
+- [ ] Pasar Batu 3
+- [ ] Pasar Batu 7
+- [ ] Pasar Siburan
+- [ ] Pendidikan Jalan Matang
+- [ ] Petron Pending
+- [ ] Politeknik Kuching Sarawak
+- [ ] Public Bank Padungan
+- [ ] Pulapol Kuching
+- [ ] Right Side Stops:
+- [ ] Riverside Majestic
+- [ ] Rock Road Seafood
+- [ ] Roxy Hotel Serian
+- [ ] Rpr Demak Laut
+- [ ] Sarawak Energy Serian
+- [ ] Sarawak General Hospital
+- [ ] Sarawak Skills
+- [ ] Sego Precinct
+- [ ] Sejingkat Seb Substation
+- [ ] Semenggoh National Park
+- [ ] Shell Batu Kawa
+- [ ] Siburan
+- [ ] Simpang Batu Kitang Lama
+- [ ] Simpang Jalan Ensengei
+- [ ] Simpang Jalan Kong Ping
+- [ ] Simpang Kampung Haji Baki
+- [ ] Simpang Semaba
+- [ ] Siniawan Baru
+- [ ] Sjk Chung Hua 29
+- [ ] Sjk Chung Hua Batu 10
+- [ ] Sjk Chung Hua Batu 32
+- [ ] Sjk Chung Hua Batu 35
+- [ ] Sjk Chung Hua Batu 4 1/2
+- [ ] Sjk Chung Hua Batu 7
+- [ ] Sjk Chung Hua Keranji
+- [ ] Sjk Chung No.3
+- [ ] Sjk Tapah
+- [ ] Sjkc Tapah
+- [ ] Sk Agama
+- [ ] Sk Gemang
+- [ ] Sk Kampung Tian Mawang
+- [ ] Sk Malihah
+- [ ] Sk Pajar Sejingkat
+- [ ] Sm Sains
+- [ ] Smk Agama Matang 2
+- [ ] Smk Bako
+- [ ] Smk Bau
+- [ ] Smk Matang Jaya
+- [ ] Smk Paku
+- [ ] Smk Petrajaya
+- [ ] Smk Sri Matang
+- [ ] Smk St Teresa
+- [ ] Smk Tabuan Jaya
+- [ ] Smk Tun Abang Haji Openg
+- [ ] Srb Chung Hua Batu 4 1/2
+- [ ] Srb Chung Hua Batu 8 1/2
+- [ ] St3
+- [ ] Stesen Bas Saujana
+- [ ] Stesen Bas Serian
+- [ ] Subaru Kuching
+- [ ] Sunny Hill
+- [ ] Sunny Hill Batu Kawah
+- [ ] Sunny Hills
+- [ ] Surau Darul Ibadah Malihah
+- [ ] Surau Khairul Amal
+- [ ] Tabuan Jaya
+- [ ] Taman Borneo Height
+- [ ] Taman Chungnion Villa
+- [ ] Taman Dahlia
+- [ ] Taman Desa Wira
+- [ ] Taman Duras
+- [ ] Taman Harmoni
+- [ ] Taman Hussein
+- [ ] Taman Jublee Mas
+- [ ] Taman Kwong Thiong
+- [ ] Taman Lee Ling
+- [ ] Taman Makmur
+- [ ] Taman Malihah
+- [ ] Taman Matang Jaya
+- [ ] Taman Mesra Bako
+- [ ] Taman Perindustrian Central Light
+- [ ] Taman Seri Makmur
+- [ ] Taman Sejoli
+- [ ] Taman Siniawan 1
+- [ ] Taman Siniawan 2
+- [ ] Taman Sri Emas
+- [ ] Taman Sri Jaya
+- [ ] Taman Sri Perkasa
+- [ ] Taman Suria Jaya
+- [ ] Taman Yen Yen
+- [ ] Tarat
+- [ ] Tarat Jaya
+- [ ] Tematu Hill
+- [ ] Terminal Bako
+- [ ] Terminal Bas Bau
+- [ ] The Banquet Residence
+- [ ] The Spring
+- [ ] Timberland Medical Centre
+- [ ] Tm Batu Lintang
+- [ ] Tm Jalan Were
+- [ ] Toyota Borneo Mobility
+- [ ] Trinity Hub
+- [ ] Unaco Matang
+- [ ] Unaco Siburan
+- [ ] Unimas
+- [ ] Univista
+- [ ] Waterfront

@@ -4,7 +4,7 @@ This project is dedicated to transforming publicly available information about t
 
 ## Project Goal
 
-The primary objective is to create high-quality, open GTFS datasets for BAS.MY services, covering the networks in **Kota Setar, Kangar, Ipoh, Kuala Terengganu, Kuching, Melaka, and Seremban**. By converting unstructured data (like PDFs and images) into a structured format, we aim to make this transit information accessible for use in applications such as Google Maps, transit apps, and for analysis by researchers and urban planners.
+The primary objective is to create high-quality, open GTFS datasets for BAS.MY services, covering the networks in **Kota Setar, Kangar, Ipoh, Kuala Terengganu, Kuching, Melaka, Seremban, and Kota Bharu**. By converting unstructured data (like PDFs and images) into a structured format, we aim to make this transit information accessible for use in applications such as Google Maps, transit apps, and for analysis by researchers and urban planners.
 
 This initiative uses the existing GTFS data for Prasarana's Rapid Penang service, located in the [`prasarana-gtfs`](prasarana-gtfs) directory, as a reference and quality benchmark.
 
@@ -51,7 +51,7 @@ The project is being executed in a phased approach for each city's network.
 *   **GTFS Output:** [`basmy-kuching/gtfs_basmy_kuching/`](basmy-kuching/gtfs_basmy_kuching/)
 *   **Status:**
     *   **Phase 1 (Foundation):** Complete. `agency.txt` and `routes.txt` have been created.
-    *   **Phase 2.1 (Data Extraction):** **Paused.** This step requires manual extraction of stop names from the route images into [`basmy-kuching/stops_to_geocode.md`](basmy-kuching/stops_to_geocode.md).
+    *   **Phase 2.1 (Data Extraction):** Complete. A list of all unique stops and landmarks has been extracted into [`basmy-kuching/stops_to_geocode.md`](basmy-kuching/stops_to_geocode.md).
     *   **Phase 2.2 (Geocoding):** **Paused.** Blocked pending availability of geocoding MCP servers.
 
 ### 6. BAS.MY Melaka
@@ -70,9 +70,16 @@ The project is being executed in a phased approach for each city's network.
     *   **Phase 1 & 2.1 (Data Extraction):** Complete. Foundational files created and stops list extracted to [`basmy-seremban/stops_to_geocode.md`](basmy-seremban/stops_to_geocode.md).
     *   **Phase 2.2 (Geocoding):** **Paused.** Blocked pending availability of geocoding MCP servers.
 
+### 8. BAS.MY Kota Bharu
+
+*   **Source Data:** Files within the [`basmy-kotabharu/`](basmy-kotabharu/) directory.
+*   **GTFS Output:** [`basmy-kotabharu/gtfs_basmy_kotabharu/`](basmy-kotabharu/gtfs_basmy_kotabharu/)
+*   **Status:**
+    *   **Phase 1 & 2.1 (Data Extraction):** Complete. Foundational files created and stops list extracted to [`basmy-kotabharu/stops_to_geocode.md`](basmy-kotabharu/stops_to_geocode.md).
+    *   **Phase 2.2 (Geocoding):** **Paused.** Blocked pending availability of geocoding MCP servers.
+
 ## Next Steps
 
-1.  **For Kuching:** Manually populate the [`basmy-kuching/stops_to_geocode.md`](basmy-kuching/stops_to_geocode.md) file with stop names from the route images.
-2.  **For All Cities:** Deploy MCP servers for Google Maps and GrabMaps APIs.
-3.  Execute the automated geocoding workflow to process the stop lists for all cities.
-4.  Proceed with defining trips, schedules, and stop times to complete the GTFS datasets.
+1.  **For All Cities:** Deploy MCP servers for Google Maps and GrabMaps APIs.
+2.  Execute the automated geocoding workflow to process the stop lists for all cities.
+3.  Proceed with defining trips, schedules, and stop times to complete the GTFS datasets.
