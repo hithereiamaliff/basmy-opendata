@@ -1,80 +1,186 @@
 # BAS.MY Kota Bharu Stops for Geocoding
 
-This file contains a list of unique bus stops and landmarks extracted from the `𝐃𝟑𝟏 𝐊𝐎𝐓𝐀 𝐁𝐇𝐀𝐑𝐔 - 𝐌𝐄𝐑𝐀𝐍𝐓𝐈 (Stops List).txt`. The next step is to find the latitude and longitude for each of these locations.
-- [ ] Stesen Bas Kota Bharu
-- [ ] Padang Garong (Outbound)
-- [ ] SK Padang Garong (Outbound)
-- [ ] Muzium Negeri Kelantan (Outbound)
-- [ ] Bazar Tok Guru
-- [ ] Pejabat Pos Kota Bharu
-- [ ] Troika Kota Bharu
-- [ ] KB Mall
-- [ ] One Button Solution Sdn Bhd
-- [ ] KBCC
-- [ ] Petronas Pasir Pekan
-- [ ] SK Pasir Pekan
-- [ ] SMKA Falahiah Pasir Pekan
-- [ ] Maahad Muhammadi Pasir Pekan
-- [ ] SMK Mahmud Mahyidin
-- [ ] Kg Baru Luar
-- [ ] Hiok Lee
-- [ ] Lorong Kubur
-- [ ] SK Kutan
-- [ ] Kg Kutan 1
-- [ ] Kg Kutan 2
-- [ ] SMUA Al-Ulum
-- [ ] Kg Tendong
+This file contains a list of unique bus stops and landmarks extracted from the `BAS.MY Kota Bharu Bus Stops List.md`. The next step is to find the latitude and longitude for each of these locations.
+- [ ] Balai Polis P.Mas
 - [ ] Balai Polis Tendong
-- [ ] SMK Tendong
-- [ ] SK Othman Talib
+- [ ] Bazar Tok Guru
+- [ ] Chabang Tiga
+- [ ] Dataran Cheng Ho
+- [ ] Giatmara Tumpat
+- [ ] Gual Periok
+- [ ] Hiok Lee
+- [ ] IPD Kota Bharu
+- [ ] IPG Kota Bharu
+- [ ] JPN Pasir Mas
+- [ ] KB Mall
+- [ ] KBCC
+- [ ] KK Meranti
+- [ ] KK Pendek
+- [ ] KK Pohon Tanjung
+- [ ] KK Tumpat
+- [ ] KTM Bunut Susu
+- [ ] Kaw. Perindustrian P.Chepa
+- [ ] Kelantan State Museum
+- [ ] Kelantan State Museum (Outbound)
+- [ ] Kg Alor Mengkuang
+- [ ] Kg Apa Apa
+- [ ] Kg Badang
+- [ ] Kg Banggol Ara
+- [ ] Kg Banggol Chicha
+- [ ] Kg Banggol Pak Mat 1
+- [ ] Kg Banggol Pak Mat 2
+- [ ] Kg Banggol Perdana
+- [ ] Kg Baru Luar
 - [ ] Kg Bechah / Jalan Chempaka
 - [ ] Kg Bechah / Jalan Melor
-- [ ] Masjid Hutan Chengal
-- [ ] Kolej Vokasional Pasir Mas
-- [ ] Wisma Bonda Jalan Tendong
-- [ ] Kg Kayu Tinggi 2
-- [ ] Kg Kayu Tinggi 1
-- [ ] Masjid Al-Taqwa Bunut Susu
-- [ ] KTM Bunut Susu
 - [ ] Kg Bechah Palas
 - [ ] Kg Binjal
-- [ ] Masjid As-Solohin Bechah Semak
-- [ ] Kubur Bechah Semak
-- [ ] SK Penggu
-- [ ] Kg Tok Limin
-- [ ] Kg Paya Ular
-- [ ] Kg Pangkal Kala
-- [ ] SK Pangkal Kala
-- [ ] Kg Apa Apa
-- [ ] Kg Alor Mengkuang
-- [ ] Kg Gelang Mas 2
-- [ ] Kg Gelang Mas
-- [ ] Kg Chat
-- [ ] Meranti
-- [ ] SMK Meranti
-- [ ] KK Meranti
-- [ ] Taman Kebun Raa
-- [ ] Kg Banggol Pak Mat 2
-- [ ] Kg Banggol Pak Mat 1
-- [ ] Masjid Bakong Luar
 - [ ] Kg Chabang Bakong
-- [ ] KK Pohon Tanjung
-- [ ] Kg Lubuk Kawah
-- [ ] Kg Gebeng
-- [ ] Paan Seafood
+- [ ] Kg Chat
 - [ ] Kg Gajah Mati
-- [ ] Kg Banggol Perdana
-- [ ] Kg Banggol Ara
-- [ ] SK Banggol Chicha
-- [ ] Maahad Tahfiz Al-Asriah
-- [ ] SRI Al-Furqan
+- [ ] Kg Gebeng
+- [ ] Kg Gelang Mas
+- [ ] Kg Gelang Mas 2
+- [ ] Kg Gua
+- [ ] Kg Jerulong
+- [ ] Kg Jubakar
+- [ ] Kg Jubakar Pantai
+- [ ] Kg Kayu Tinggi 1
+- [ ] Kg Kayu Tinggi 2
+- [ ] Kg Kijang
+- [ ] Kg Kutan 1
+- [ ] Kg Kutan 2
 - [ ] Kg Kubang Badak
-- [ ] Wisma KODMAS
-- [ ] SMK Pasir Mas
-- [ ] SK Sultan Ibrahim 1
-- [ ] Pasir Mas
-- [ ] SJKC Yok Eng
-- [ ] JPN Pasir Mas
-- [ ] Petronas Pasir Mas
+- [ ] Kg Lubok Jong
+- [ ] Kg Lubuk Kawah
+- [ ] Kg Pangkal Kala
+- [ ] Kg Paya Ular
+- [ ] Kg Pengkalan Tok Kasim
+- [ ] Kg Tendong
+- [ ] Kg Tok Limin
+- [ ] Kg. Baung
+- [ ] Kg. Tikat
+- [ ] Kolej Kemahiran Tinggi Mara
+- [ ] Kolej Komuniti Rantau Panjang
+- [ ] Kolej Vok. Pasir Mas
+- [ ] Kolej Vokasional Pasir Mas
+- [ ] Kompleks Mahkamah P.Mas
 - [ ] Kompleks Mahkamah Pasir Mas
+- [ ] Kompleks Penguatkuasa Kastam
+- [ ] Kubur Bechah Semak
+- [ ] Lapangan Terbang
+- [ ] Lorong Kubur
+- [ ] MRSM Pengkalan Chepa
+- [ ] Maahad Muhammadi Lelaki
+- [ ] Maahad Muhammadi Pasir Pekan
+- [ ] Maahad Muhammadi Perempuan (OB)
+- [ ] Maahad Muhammadi Rantau Panjang
+- [ ] Maahad Tahfiz Al Asriah
+- [ ] Maahad Tahfiz Al-Asriah
+- [ ] Madrasah As Saadah
+- [ ] Masjid Al Maniah
+- [ ] Masjid Al-Taqwa Bunut Susu
+- [ ] Masjid As-Solohin Bechah Semak
+- [ ] Masjid Bakong Luar
+- [ ] Masjid Beijing
+- [ ] Masjid Hutan Chengal
+- [ ] Masjid Muhammadi
+- [ ] Masjid Muhamdiah Kg. Sakar
+- [ ] Masjid. Rithaudeen
+- [ ] Meranti
+- [ ] Muzium Negeri Kelantan
+- [ ] Muzium Negeri Kelantan (Outbound)
+- [ ] One Button Solution Sdn Bhd
+- [ ] Paan Seafood
+- [ ] Padang Garong
+- [ ] Padang Garong (Outbound)
+- [ ] Padang Tembak
+- [ ] Pantai Cahaya Bulan
+- [ ] Pasar Tok Guru
+- [ ] Pasir Mas
+- [ ] Pej. Penggawa Daerah Gual Periok
+- [ ] Pej. Pos Kota Bharu
+- [ ] Pejabat Pos Kota Bharu
+- [ ] Pejabat Risda
+- [ ] Pengkalan Chepa
+- [ ] Pengkalan Kubor
+- [ ] Petron Salor
+- [ ] Petronas Pasir Mas
+- [ ] Petronas Pasir Pekan
+- [ ] RTM
+- [ ] Residensi Prima Lubok Jong
+- [ ] Residensi Troika
+- [ ] Royal Thai Consulate General
+- [ ] SJKC Yok Eng
+- [ ] SK Banggol Chicha
+- [ ] SK Berangan 1
+- [ ] SK Bunohan
+- [ ] SK Gual Tinggi
+- [ ] SK Kutan
+- [ ] SK Kubang Batang
+- [ ] SK Mekasar
+- [ ] SK Othman Talib
+- [ ] SK Padang Garong
+- [ ] SK Padang Garong (Outbound)
+- [ ] SK Pangkal Kala
+- [ ] SK Parang Puting
+- [ ] SK Pasir Pekan
+- [ ] SK Pendek
+- [ ] SK Penggu
+- [ ] SK Pengkalan Kubor
+- [ ] SK Penambang
+- [ ] SK Semut Api
+- [ ] SK Seri Kota
+- [ ] SK Sg Tapang
+- [ ] SK Sri Neting
+- [ ] SK Sri Tumpat 1
+- [ ] SK Sri Tumpat 2
+- [ ] SK Sultan Ibrahim 1
+- [ ] SK Tarbiyah
+- [ ] SK Wakaf Bharu
+- [ ] SK. Sri Neting
+- [ ] SMKA Falahian / Pasir Pekan
+- [ ] SMKA Falahiah / Pasir Pekan
+- [ ] SMKA Falahiah Pasir Pekan
+- [ ] SMK Chabang Empat
+- [ ] SMK Chung Hwa
+- [ ] SMK Genting
+- [ ] SMK Mahmud Mahyidin
+- [ ] SMK Meranti
+- [ ] SMK Pasir Mas
+- [ ] SMK Penambang
+- [ ] SMK Pengkalan Chepa
+- [ ] SMK Pengkalan Chepa 2
+- [ ] SMK Salor
+- [ ] SMK Tanjung Mas
+- [ ] SMK Tendong
+- [ ] SMS Tengku Muhammad Faris Petra
+- [ ] SMUA Al Ulum
+- [ ] SMUA Al-Ulum
+- [ ] SRI Al-Furqan
+- [ ] Shell Jln. Kebun Sultan
+- [ ] Shell Kg. Baung
+- [ ] Stadium Mini Pasir Mas
+- [ ] Stesen Bas Kota Bharu
+- [ ] Stesen Bas Rantau Panjang
+- [ ] Sultan Ismail Petra
+- [ ] Tabika Kemas Sri Bayu
+- [ ] Taman Desa Kemumin
+- [ ] Taman Kebun Raa
+- [ ] Taman Kemumin P. Chepa
+- [ ] Taman Kemumin Pengkalan Chepa
+- [ ] Taman Kurnia Jaya 1
+- [ ] Taman Kurnia Jaya 2
+- [ ] Taman Perbandaran Tengku Anis
+- [ ] Taman Uda Murni
+- [ ] Tanjung Mas
+- [ ] Teluk Kitang
+- [ ] Terminal Bas Tasek Raja P. Mas
 - [ ] Terminal Bas Tasek Raja Pasir Mas
+- [ ] Troika Kota Bharu
+- [ ] Wakaf Bharu
+- [ ] Wakaf Che Yeh
+- [ ] Wakaf Mek Zainab
+- [ ] Wisma Bonda Jalan Tendong
+- [ ] Wisma KDRM
+- [ ] Wisma KODMAS
