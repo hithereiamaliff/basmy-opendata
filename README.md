@@ -1,87 +1,81 @@
-# BAS.MY Open Data Project
+# BAS.MY Open Data: Ridership Statistics
 
-This project is dedicated to transforming publicly available information about the BAS.MY bus services in various Malaysian cities into the standardized, machine-readable **General Transit Feed Specification (GTFS)** format.
+This project provides open, machine-readable ridership statistics for the BAS.MY bus services in various Malaysian cities.
 
-## Project Goal
+## Disclaimer
 
-The primary objective is to create high-quality, open GTFS datasets for BAS.MY services, covering the networks in **Kota Setar, Kangar, Ipoh, Kuala Terengganu, Kuching, Melaka, Seremban, and Kota Bharu**. By converting unstructured data (like PDFs and images) into a structured format, we aim to make this transit information accessible for use in applications such as Google Maps, transit apps, and for analysis by researchers and urban planners.
+This is an independent, community-driven project and is **not** an official open data initiative by the Agensi Pengangkutan Awam Darat (APAD). While the data is sourced from official publications, this project is not affiliated with or endorsed by APAD.
 
-This initiative uses the existing GTFS data for Prasarana's Rapid Penang service, located in the [`prasarana-gtfs`](prasarana-gtfs) directory, as a reference and quality benchmark.
+## Data Files
 
-NOTE: BAS.MY Johor Bahru is **excluded** as Causeway Link, the main operator, already hosted their GTFS data on [data.gov.my](https://developer.data.gov.my/realtime-api/gtfs-static).
+The ridership data is available in the [`json/`](json/) directory in two separate files:
 
-## Current Status & Methodology
+*   [`json/yearly_ridership.json`](json/yearly_ridership.json): Contains the total number of passengers, aggregated by year and by month.
+*   [`json/daily_average_ridership.json`](json/daily_average_ridership.json): Contains the average number of daily passengers, aggregated by year and by month.
 
-The project is being executed in a phased approach for each city's network.
+## Covered Networks
 
-### 1. BAS.MY Kota Setar
+The ridership statistics currently include data for the following BAS.MY service areas:
 
-*   **Source Data:** [`basmy-kotasetar/map-basmykotasetar.pdf`](basmy-kotasetar/map-basmykotasetar.pdf) and [`basmy-kotasetar/K10.png`](basmy-kotasetar/K10.png)
-*   **GTFS Output:** [`basmy-kotasetar/gtfs_basmy_kotasetar/`](basmy-kotasetar/gtfs_basmy_kotasetar/)
-*   **Status:**
-    *   **Phase 1 (Foundation):** Complete. `agency.txt` and `routes.txt` have been created.
-    *   **Phase 2 (Data Extraction):** Complete. A list of all unique stops and landmarks has been extracted into [`basmy-kotasetar/stops_to_geocode.md`](basmy-kotasetar/stops_to_geocode.md).
-    *   **Phase 2 (Geocoding):** **Paused.** This step is currently blocked pending the setup of MCP (Model Context Protocol) servers for the Google Maps and GrabMaps APIs, which will be used to programmatically find the latitude and longitude of each stop.
+*   Ipoh
+*   Johor Bahru
+*   Kangar
+*   Kota Setar
+*   Kuala Terengganu
+*   Melaka
+*   Seremban
 
-### 2. BAS.MY Kangar
+### Excluded Networks
 
-*   **Source Data:** Files within the [`basmy-kangar/`](basmy-kangar/) directory, primarily `20250516_BASMY_Kangar_Master Map.pdf`.
-*   **GTFS Output:** [`basmy-kangar/gtfs_basmy_kangar/`](basmy-kangar/gtfs_basmy_kangar/)
-*   **Status:**
-    *   **Phase 1 & 2.1 (Data Extraction):** Complete. Foundational files created and stops list extracted to [`basmy-kangar/stops_to_geocode.md`](basmy-kangar/stops_to_geocode.md).
-    *   **Phase 2.2 (Geocoding):** **Paused.** Blocked pending availability of geocoding MCP servers.
+Please note that the following BAS.MY networks are **not** included in the current dataset, but may be added in the future statistic counts:
 
-### 3. BAS.MY Ipoh
+*   Kota Bharu
+*   Kuching
+*   Kota Kinabalu
 
-*   **Source Data:** Files within the [`basmy-ipoh/`](basmy-ipoh/) directory.
-*   **GTFS Output:** [`basmy-ipoh/gtfs_basmy_ipoh/`](basmy-ipoh/gtfs_basmy_ipoh/)
-*   **Status:**
-    *   **Phase 1 & 2.1 (Data Extraction):** Complete. Foundational files created and stops list extracted to [`basmy-ipoh/stops_to_geocode.md`](basmy-ipoh/stops_to_geocode.md).
-    *   **Phase 2.2 (Geocoding):** **Paused.** Blocked pending availability of geocoding MCP servers.
+## JSON Schema
 
-### 4. BAS.MY Kuala Terengganu
+The data in both files follows a consistent schema, detailed below:
 
-*   **Source Data:** Files within the [`basmy-kualaterengganu/`](basmy-kualaterengganu/) directory.
-*   **GTFS Output:** [`basmy-kualaterengganu/gtfs_basmy_kualaterengganu/`](basmy-kualaterengganu/gtfs_basmy_kualaterengganu/)
-*   **Status:**
-    *   **Phase 1 & 2.1 (Data Extraction):** Complete. Foundational files created and stops list extracted to [`basmy-kualaterengganu/stops_to_geocode.md`](basmy-kualaterengganu/stops_to_geocode.md).
-    *   **Phase 2.2 (Geocoding):** **Paused.** Blocked pending availability of geocoding MCP servers.
+```json
+{
+  "last_updated": "YYYY-MM-DD",
+  "source": "Agensi Pengangkutan Awam Darat (APAD)",
+  "statistic_type": "total_passengers" | "average_daily_passengers",
+  "data": {
+    "yearly": [
+      {
+        "year": 2019,
+        "locations": {
+          "Ipoh": 1955306,
+          "Kangar": 349562,
+          // ... other locations
+        },
+        "total": 5386684
+      }
+    ],
+    "monthly_YYYY": [
+      {
+        "month": "Jan-YY",
+        "locations": {
+          "Ipoh": 60449,
+          // ... other locations
+        },
+        "total": 869485
+      }
+    ]
+  }
+}
+```
 
-### 5. BAS.MY Kuching
+## Acknowledgements
 
-*   **Source Data:** Files within the [`basmy-kuching/`](basmy-kuching/) directory.
-*   **GTFS Output:** [`basmy-kuching/gtfs_basmy_kuching/`](basmy-kuching/gtfs_basmy_kuching/)
-*   **Status:**
-    *   **Phase 1 (Foundation):** Complete. `agency.txt` and `routes.txt` have been created.
-    *   **Phase 2.1 (Data Extraction):** Complete. A list of all unique stops and landmarks has been extracted into [`basmy-kuching/stops_to_geocode.md`](basmy-kuching/stops_to_geocode.md).
-    *   **Phase 2.2 (Geocoding):** **Paused.** Blocked pending availability of geocoding MCP servers.
+The data presented in this project is sourced from the official statistics published by the **Agensi Pengangkutan Awam Darat (APAD)**. The original source material can be found on their official website:
 
-### 6. BAS.MY Melaka
+*   [APAD - Info Grafik & Statistik](https://www.apad.gov.my/index.php/sumber-maklumat1/info-grafik-statistik#section-id-1604565158282)
 
-*   **Source Data:** Files within the [`basmy-melaka/`](basmy-melaka/) directory.
-*   **GTFS Output:** [`basmy-melaka/gtfs_basmy_melaka/`](basmy-melaka/gtfs_basmy_melaka/)
-*   **Status:**
-    *   **Phase 1 & 2.1 (Data Extraction):** Complete. Foundational files created and stops list extracted to [`basmy-melaka/stops_to_geocode.md`](basmy-melaka/stops_to_geocode.md).
-    *   **Phase 2.2 (Geocoding):** **Paused.** Blocked pending availability of geocoding MCP servers.
+We extend our gratitude to APAD for making this data publicly available.
 
-### 7. BAS.MY Seremban
+## License
 
-*   **Source Data:** Files within the [`basmy-seremban/`](basmy-seremban/) directory.
-*   **GTFS Output:** [`basmy-seremban/gtfs_basmy_seremban/`](basmy-seremban/gtfs_basmy_seremban/)
-*   **Status:**
-    *   **Phase 1 & 2.1 (Data Extraction):** Complete. Foundational files created and stops list extracted to [`basmy-seremban/stops_to_geocode.md`](basmy-seremban/stops_to_geocode.md).
-    *   **Phase 2.2 (Geocoding):** **Paused.** Blocked pending availability of geocoding MCP servers.
-
-### 8. BAS.MY Kota Bharu
-
-*   **Source Data:** Files within the [`basmy-kotabharu/`](basmy-kotabharu/) directory.
-*   **GTFS Output:** [`basmy-kotabharu/gtfs_basmy_kotabharu/`](basmy-kotabharu/gtfs_basmy_kotabharu/)
-*   **Status:**
-    *   **Phase 1 & 2.1 (Data Extraction):** Complete. Foundational files created and stops list extracted to [`basmy-kotabharu/stops_to_geocode.md`](basmy-kotabharu/stops_to_geocode.md).
-    *   **Phase 2.2 (Geocoding):** **Paused.** Blocked pending availability of geocoding MCP servers.
-
-## Next Steps
-
-1.  **For All Cities:** Deploy MCP servers for Google Maps and GrabMaps APIs.
-2.  Execute the automated geocoding workflow to process the stop lists for all cities.
-3.  Proceed with defining trips, schedules, and stop times to complete the GTFS datasets.
+This project is licensed under the MIT License. See the [`LICENSE`](LICENSE) file for details.
