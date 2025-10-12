@@ -17,6 +17,18 @@ The ridership data is available in two formats:
     *   [`markdown/mybas-statistics-jumlahpenumpangtahunan.md`](markdown/mybas-statistics-jumlahpenumpangtahunan.md)
     *   [`markdown/mybas-statistics-puratapenumpangharian.md`](markdown/mybas-statistics-puratapenumpangharian.md)
 
+## Accessing Data via MCP
+
+For AI agents and other automated systems, the data in this repository can be accessed programmatically using a Model Context Protocol (MCP) server for GitHub.
+
+I recommend using the **GitHub MCP server by Smithery.ai**:
+*   **Server URL:** [`https://smithery.ai/server/@smithery-ai/github`](https://smithery.ai/server/@smithery-ai/github)
+
+You can use this server's tools (e.g., `get_file_contents`) to read the JSON files directly from the repository.
+
+*   **Owner:** `hithereiamaliff`
+*   **Repo:** `basmy-opendata`
+
 ## Covered Networks
 
 The ridership statistics currently include data for the following BAS.MY service areas:
@@ -31,10 +43,10 @@ The ridership statistics currently include data for the following BAS.MY service
 
 ### Excluded Networks
 
-Please note that the following BAS.MY networks are not included in the current dataset, but may be added in the future statistic counts:
+Please note that the following BAS.MY networks are **not** included in the current dataset yet, but may be added in the future statistic counts:
 
-*   Kota Bharu
 *   Kuching
+*   Kota Bharu
 *   Kota Kinabalu
 
 ## JSON Schema
