@@ -8,10 +8,14 @@ This is an independent, community-driven project and is **not** an official open
 
 ## Data Files
 
-The ridership data is available in the [`json/`](json/) directory in two separate files:
+The ridership data is available in two formats:
 
-*   [`json/yearly_ridership.json`](json/yearly_ridership.json): Contains the total number of passengers, aggregated by year and by month.
-*   [`json/daily_average_ridership.json`](json/daily_average_ridership.json): Contains the average number of daily passengers, aggregated by year and by month.
+*   **JSON**: Machine-readable data, ideal for software integration and analysis. Located in the [`json/`](json/) directory.
+    *   [`json/yearly_ridership.json`](json/yearly_ridership.json): Contains the total number of passengers, aggregated by year and by month.
+    *   [`json/daily_average_ridership.json`](json/daily_average_ridership.json): Contains the average number of daily passengers, aggregated by year and by month.
+*   **Markdown**: The original, human-readable source files. Located in the [`markdown/`](markdown/) directory.
+    *   [`markdown/mybas-statistics-jumlahpenumpangtahunan.md`](markdown/mybas-statistics-jumlahpenumpangtahunan.md)
+    *   [`markdown/mybas-statistics-puratapenumpangharian.md`](markdown/mybas-statistics-puratapenumpangharian.md)
 
 ## Covered Networks
 
@@ -27,7 +31,7 @@ The ridership statistics currently include data for the following BAS.MY service
 
 ### Excluded Networks
 
-Please note that the following BAS.MY networks are **not** included in the current dataset, but may be added in the future statistic counts:
+Please note that the following BAS.MY networks are not included in the current dataset, but may be added in the future statistic counts:
 
 *   Kota Bharu
 *   Kuching
@@ -35,7 +39,7 @@ Please note that the following BAS.MY networks are **not** included in the curre
 
 ## JSON Schema
 
-The data in both files follows a consistent schema, detailed below:
+The data in the JSON files follows a consistent schema, detailed below:
 
 ```json
 {
@@ -70,7 +74,7 @@ The data in both files follows a consistent schema, detailed below:
 
 ## Acknowledgements
 
-The data presented in this project is sourced from the official statistics published by the **Agensi Pengangkutan Awam Darat (APAD)**. The original source material can be found on their official website:
+The data presented in this project is sourced from the official infographics and statistics published by the **Agensi Pengangkutan Awam Darat (APAD)**. The original source material can be found on their official website:
 
 *   [APAD - Info Grafik & Statistik](https://www.apad.gov.my/index.php/sumber-maklumat1/info-grafik-statistik#section-id-1604565158282)
 
