@@ -1,0 +1,25 @@
+{
+  "notes": "This manifest is to guide AI to locate the files.",
+  "files": [
+    {
+      "path": "json/daily_average_ridership.json",
+      "description": "Contains daily average ridership data for the MyBas service.",
+      "type": "json"
+    },
+    {
+      "path": "json/yearly_ridership.json",
+      "description": "Contains yearly ridership data for the MyBas service.",
+      "type": "json"
+    },
+    {
+      "path": "markdown/mybas-statistics-puratapenumpangharian.md",
+      "description": "Markdown file with statistics on daily average ridership for MyBas.",
+      "type": "markdown"
+    },
+    {
+      "path": "markdown/mybas-statistics-jumlahpenumpangtahunan.md",
+      "description": "Markdown file with statistics on yearly ridership for MyBas.",
+      "type": "markdown"
+    }
+  ]
+}
