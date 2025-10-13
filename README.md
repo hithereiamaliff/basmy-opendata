@@ -17,6 +17,14 @@ The ridership data is available in two formats:
     *   [`markdown/mybas-statistics-jumlahpenumpangtahunan.md`](markdown/mybas-statistics-jumlahpenumpangtahunan.md)
     *   [`markdown/mybas-statistics-puratapenumpangharian.md`](markdown/mybas-statistics-puratapenumpangharian.md)
 
+## Data Manifest
+
+To assist AI agents in discovering and understanding the data files in this repository, a manifest file is provided in the root directory:
+
+*   [`manifest.json`](manifest.json): A machine-readable JSON file that lists all data files, their paths, and a brief description of their contents.
+
+This file is intended to be used by AI agents to programmatically locate and interpret the data, making it easier to integrate with this repository.
+
 ## Accessing Data via MCP
 
 For AI agents and other automated systems, the data in this repository can be accessed programmatically using a Model Context Protocol (MCP) server for GitHub.
