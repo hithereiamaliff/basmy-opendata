@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-08-07",
+  "last_updated": "2025-10-27",
   "source": "Agensi Pengangkutan Awam Darat (APAD)",
   "statistic_type": "average_daily_passengers",
   "data": {
@@ -13,7 +13,8 @@
           "Seremban": 8155,
           "Johor Bahru": null,
           "Melaka": null,
-          "Kota Setar": null
+          "Kota Setar": null,
+          "Kota Bharu": null
         },
         "total": 15049
       },
@@ -26,7 +27,8 @@
           "Seremban": 2902,
           "Johor Bahru": null,
           "Melaka": null,
-          "Kota Setar": null
+          "Kota Setar": null,
+          "Kota Bharu": null
         },
         "total": 6778
       },
@@ -39,7 +41,8 @@
           "Seremban": 1658,
           "Johor Bahru": null,
           "Melaka": null,
-          "Kota Setar": null
+          "Kota Setar": null,
+          "Kota Bharu": null
         },
         "total": 3707
       },
@@ -52,7 +55,8 @@
           "Seremban": 2641,
           "Johor Bahru": 6519,
           "Melaka": null,
-          "Kota Setar": null
+          "Kota Setar": null,
+          "Kota Bharu": null
         },
         "total": 11672
       },
@@ -65,7 +69,8 @@
           "Seremban": 2961,
           "Johor Bahru": 19686,
           "Melaka": null,
-          "Kota Setar": null
+          "Kota Setar": null,
+          "Kota Bharu": null
         },
         "total": 25421
       },
@@ -78,22 +83,24 @@
           "Seremban": 2051,
           "Johor Bahru": 29027,
           "Melaka": 1930,
-          "Kota Setar": null
+          "Kota Setar": null,
+          "Kota Bharu": null
         },
         "total": 35621
       },
       {
         "year": "2025*",
         "locations": {
-          "Ipoh": 2766,
-          "Kangar": 357,
-          "Kuala Terengganu": 638,
-          "Seremban": 3295,
-          "Johor Bahru": 30359,
-          "Melaka": 1990,
-          "Kota Setar": 1016
+          "Ipoh": 3471,
+          "Kangar": 422,
+          "Kuala Terengganu": 754,
+          "Seremban": 3595,
+          "Johor Bahru": 30935,
+          "Melaka": 2372,
+          "Kota Setar": 1699,
+          "Kota Bharu": 1437
         },
-        "total": 40420
+        "total": 44685
       }
     ],
     "monthly_2024": [
@@ -252,7 +259,8 @@
           "Seremban": 3099,
           "Johor Bahru": 30917,
           "Melaka": 2018,
-          "Kota Setar": null
+          "Kota Setar": null,
+          "Kota Bharu": null
         },
         "total": 37497
       },
@@ -265,7 +273,8 @@
           "Seremban": 3315,
           "Johor Bahru": 30259,
           "Melaka": 2044,
-          "Kota Setar": null
+          "Kota Setar": null,
+          "Kota Bharu": null
         },
         "total": 40789
       },
@@ -278,7 +287,8 @@
           "Seremban": 3472,
           "Johor Bahru": 29900,
           "Melaka": 1907,
-          "Kota Setar": null
+          "Kota Setar": null,
+          "Kota Bharu": null
         },
         "total": 39927
       },
@@ -291,7 +301,8 @@
           "Seremban": 3576,
           "Johor Bahru": 31032,
           "Melaka": 2079,
-          "Kota Setar": null
+          "Kota Setar": null,
+          "Kota Bharu": null
         },
         "total": 41713
       },
@@ -304,7 +315,8 @@
           "Seremban": 3571,
           "Johor Bahru": 31072,
           "Melaka": 2760,
-          "Kota Setar": null
+          "Kota Setar": null,
+          "Kota Bharu": null
         },
         "total": 42591
       },
@@ -317,9 +329,52 @@
           "Seremban": 3611,
           "Johor Bahru": 31702,
           "Melaka": 2738,
-          "Kota Setar": 1016
+          "Kota Setar": 1016,
+          "Kota Bharu": null
         },
         "total": 44091
+      },
+      {
+        "month": "Jul-25",
+        "locations": {
+          "Ipoh": 3851,
+          "Kangar": 525,
+          "Kuala Terengganu": 790,
+          "Seremban": 3727,
+          "Johor Bahru": 31438,
+          "Melaka": 2527,
+          "Kota Setar": 1929,
+          "Kota Bharu": 256
+        },
+        "total": 45043
+      },
+      {
+        "month": "Aug-25",
+        "locations": {
+          "Ipoh": 3846,
+          "Kangar": 474,
+          "Kuala Terengganu": 774,
+          "Seremban": 4005,
+          "Johor Bahru": 31416,
+          "Melaka": 2737,
+          "Kota Setar": 2019,
+          "Kota Bharu": 1887
+        },
+        "total": 47160
+      },
+      {
+        "month": "Sep-25",
+        "locations": {
+          "Ipoh": 3765,
+          "Kangar": 393,
+          "Kuala Terengganu": 880,
+          "Seremban": 3983,
+          "Johor Bahru": 30679,
+          "Melaka": 2541,
+          "Kota Setar": 1832,
+          "Kota Bharu": 2166
+        },
+        "total": 46239
       }
     ]
   }

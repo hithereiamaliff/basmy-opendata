@@ -2,31 +2,25 @@
 
 **Agensi Pengangkutan Awam Darat (APAD)**
 
----
-
-## RINGKASAN EKSEKUTIF
-
-Dokumen ini mengandungi statistik purata penumpang harian perkhidmatan myBAS/BAS.MY di Semenanjung Malaysia dari tahun 2019 hingga Jun 2025, merangkumi 7 lokasi perkhidmatan utama.
-
 **Sumber Data:**
 - Data 2019-2024: Dikemaskini 17/5/2025
-- Data 2019-2025: Dikemaskini 7/8/2025
+- Data 2019-2025: Dikemaskini 27/10/2025
 
 ---
 
 ## DATA TAHUNAN (2019-2025)
 
-| Tahun | Ipoh | Kangar | Kuala Terengganu | Seremban | Johor Bahru | Melaka | Kota Setar | **Jumlah** |
-|-------|------|--------|------------------|----------|-------------|--------|------------|-----------|
-| 2019 | 5,463 | 976 | 455 | 8,155 | - | - | - | **15,049** |
-| 2020 | 3,143 | 491 | 243 | 2,902 | - | - | - | **6,778** |
-| 2021 | 1,670 | 233 | 146 | 1,658 | - | - | - | **3,707** |
-| 2022 | 1,899 | 368 | 245 | 2,641 | 6,519 | - | - | **11,672** |
-| 2023 | 2,135 | 386 | 253 | 2,961 | 19,686 | - | - | **25,421** |
-| 2024 | 1,931 | 420 | 262 | 2,051 | 29,027 | 1,930 | - | **35,621** |
-| 2025* | 2,766 | 357 | 638 | 3,295 | 30,359 | 1,990 | 1,016 | **40,420** |
+| Tahun | Ipoh | Kangar | Kuala Terengganu | Seremban | Johor Bahru | Melaka | Kota Setar | Kota Bharu | **Jumlah** |
+|-------|------|--------|------------------|----------|-------------|--------|------------|------------|-----------|
+| 2019 | 5,463 | 976 | 455 | 8,155 | - | - | - | - | **15,049** |
+| 2020 | 3,143 | 491 | 243 | 2,902 | - | - | - | - | **6,778** |
+| 2021 | 1,670 | 233 | 146 | 1,658 | - | - | - | - | **3,707** |
+| 2022 | 1,899 | 368 | 245 | 2,641 | 6,519 | - | - | - | **11,672** |
+| 2023 | 2,135 | 386 | 253 | 2,961 | 19,686 | - | - | - | **25,421** |
+| 2024 | 1,931 | 420 | 262 | 2,051 | 29,027 | 1,930 | - | - | **35,621** |
+| 2025* | 3,471 | 422 | 754 | 3,595 | 30,935 | 2,372 | 1,699 | 1,437 | **44,685** |
 
-*Data 2025 adalah purata sehingga Jun 2025
+*Data 2025 adalah purata sehingga September 2025
 
 ---
 
@@ -51,14 +45,17 @@ Dokumen ini mengandungi statistik purata penumpang harian perkhidmatan myBAS/BAS
 
 ## DATA BULANAN 2025
 
-| Bulan | Ipoh | Kangar | Kuala Terengganu | Seremban | Johor Bahru | Melaka | Kota Setar | **Jumlah** |
-|-------|------|--------|------------------|----------|-------------|--------|------------|-----------|
-| Jan-25 | 816 | 366 | 282 | 3,099 | 30,917 | 2,018 | - | **37,497** |
-| Feb-25 | 3,797 | 382 | 991 | 3,315 | 30,259 | 2,044 | - | **40,789** |
-| Mar-25 | 3,684 | 323 | 641 | 3,472 | 29,900 | 1,907 | - | **39,927** |
-| Apr-25 | 3,826 | 467 | 733 | 3,576 | 31,032 | 2,079 | - | **41,713** |
-| May-25 | 3,884 | 450 | 855 | 3,571 | 31,072 | 2,760 | - | **42,591** |
-| Jun-25 | 3,772 | 413 | 840 | 3,611 | 31,702 | 2,738 | 1,016 | **44,091** |
+| Bulan | Ipoh | Kangar | Kuala Terengganu | Seremban | Johor Bahru | Melaka | Kota Setar | Kota Bharu | **Jumlah** |
+|-------|------|--------|------------------|----------|-------------|--------|------------|------------|-----------|
+| Jan-25 | 816 | 366 | 282 | 3,099 | 30,917 | 2,018 | - | - | **37,497** |
+| Feb-25 | 3,797 | 382 | 991 | 3,315 | 30,259 | 2,044 | - | - | **40,789** |
+| Mar-25 | 3,684 | 323 | 641 | 3,472 | 29,900 | 1,907 | - | - | **39,927** |
+| Apr-25 | 3,826 | 467 | 733 | 3,576 | 31,032 | 2,079 | - | - | **41,713** |
+| May-25 | 3,884 | 450 | 855 | 3,571 | 31,072 | 2,760 | - | - | **42,591** |
+| Jun-25 | 3,772 | 413 | 840 | 3,611 | 31,702 | 2,738 | 1,016 | - | **44,091** |
+| Jul-25 | 3,851 | 525 | 790 | 3,727 | 31,438 | 2,527 | 1,929 | 256 | **45,043** |
+| Aug-25 | 3,846 | 474 | 774 | 4,005 | 31,416 | 2,737 | 2,019 | 1,887 | **47,160** |
+| Sep-25 | 3,765 | 393 | 880 | 3,983 | 30,679 | 2,541 | 1,832 | 2,166 | **46,239** |
 
 ---
 
@@ -78,10 +75,11 @@ Dokumen ini mengandungi statistik purata penumpang harian perkhidmatan myBAS/BAS
    - **Johor Bahru**: Mac 2022
    - **Melaka**: Mei 2024
    - **Kota Setar**: Jun 2025
+   - **Kota Bharu**: Julai 2025
 
 5. **Peralihan Kontrak**: Bagi kontrak SBST yang tamat pada tahun 2023/2024, perkhidmatan diteruskan di bawah perkhidmatan umum sehingga pengendali baharu dilantik di bawah kontrak baharu dan beroperasi
 
-### Lokasi Perkhidmatan Aktif (Jun 2025):
+### Lokasi Perkhidmatan Aktif (September 2025):
 
 | No | Lokasi | Status | Tarikh Mula Operasi |
 |----|--------|--------|---------------------|
@@ -91,9 +89,10 @@ Dokumen ini mengandungi statistik purata penumpang harian perkhidmatan myBAS/BAS
 | 4 | Seremban | Aktif | 2015 |
 | 5 | Johor Bahru | Aktif | Mac 2022 |
 | 6 | Melaka | Aktif | Mei 2024 |
-| 7 | Kota Setar | **Baharu** | Jun 2025 |
+| 7 | Kota Setar | Aktif | Jun 2025 |
+| 8 | Kota Bharu | Aktif | Julai 2025 |
 
 ---
 
 *Sumber: Agensi Pengangkutan Awam Darat (APAD)*  
-*Kemaskini Terakhir: 7 Ogos 2025*
+*Kemaskini Terakhir: 27 Oktober 2025*

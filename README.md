@@ -44,6 +44,7 @@ The ridership statistics currently include data for the following BAS.MY service
 *   Ipoh
 *   Johor Bahru
 *   Kangar
+*   Kota Bharu
 *   Kota Setar
 *   Kuala Terengganu
 *   Melaka
@@ -54,7 +55,6 @@ The ridership statistics currently include data for the following BAS.MY service
 Please note that the following BAS.MY networks are **not** included in the current dataset yet, but may be added in the future statistic counts:
 
 *   Kuching
-*   Kota Bharu
 *   Kota Kinabalu
 
 ## JSON Schema
