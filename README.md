@@ -47,6 +47,7 @@ The ridership statistics currently include data for the following BAS.MY service
 *   Kota Bharu
 *   Kota Setar
 *   Kuala Terengganu
+*   Kuantan
 *   Melaka
 *   Seremban
 
