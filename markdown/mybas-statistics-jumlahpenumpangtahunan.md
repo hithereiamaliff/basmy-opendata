@@ -2,7 +2,7 @@
 
 **Agensi Pengangkutan Awam Darat (APAD)**
 
-## Data Keseluruhan (2019-2025)
+## Data Keseluruhan (2019-2026)
 
 ### Jumlah Penumpang Tahunan Mengikut Lokasi
 
@@ -15,6 +15,9 @@
 | 2023 | 772,315 | 91,647 | 14,669 | 971,463 | 7,258,065 | - | - | - | - | **9,108,159** |
 | 2024 | 353,075 | 25,603 | 15,990 | 564,248 | 10,626,905 | 472,832 | - | - | - | **12,058,653** |
 | 2025 | 1,278,665 | 160,618 | 274,309 | 1,354,623 | 11,468,414 | 880,746 | 376,045 | 382,903 | 47,123 | **16,223,446** |
+| 2026* | 326,445 | 40,581 | 68,884 | 390,052 | 3,504,319 | 314,034 | 177,094 | 269,030 | 211,421 | **5,301,860** |
+
+\* 2026: Data separa tahun (Jan–Mac 2026 sahaja, lihat pecahan bulanan di bawah).
 
 ---
 
@@ -56,6 +59,16 @@
 
 ---
 
+## Data Bulanan 2026 (Januari – Mac)
+
+| Bulan | Ipoh | Kangar | Kuala Terengganu | Seremban | Johor Bahru | Melaka | Kota Setar | Kota Bharu | Kuantan | **Jumlah** |
+|-------|------|--------|------------------|----------|-------------|--------|------------|------------|---------|------------|
+| Jan-26 | 113,953 | 17,289 | 25,420 | 132,449 | 1,282,186 | 110,618 | 60,415 | 103,115 | 74,581 | **1,920,026** |
+| Feb-26 | 102,492 | 11,851 | 21,881 | 120,332 | 951,391 | 98,595 | 54,782 | 84,241 | 65,686 | **1,511,251** |
+| Mar-26 | 110,000 | 11,441 | 21,583 | 137,271 | 1,270,742 | 104,821 | 61,897 | 81,674 | 71,154 | **1,870,583** |
+
+---
+
 ## Makluman
 
 1. Data yang direkod adalah dilaporkan oleh pengendali perkhidmatan secara bulanan yang akan dikemaskini mengikut data terkini
@@ -79,4 +92,4 @@
 ---
 
 *Sumber: Agensi Pengangkutan Awam Darat (APAD)*
-*Tarikh Kemaskini: 26/2/2026*
+*Tarikh Kemaskini: 20/5/2026*

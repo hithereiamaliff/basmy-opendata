@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-26",
+  "last_updated": "2026-05-20",
   "source": "Agensi Pengangkutan Awam Darat (APAD)",
   "statistic_type": "average_daily_passengers",
   "data": {
@@ -108,6 +108,21 @@
           "Kuantan": 1520
         },
         "total": 47592
+      },
+      {
+        "year": "2026*",
+        "locations": {
+          "Ipoh": 3628,
+          "Kangar": 450,
+          "Kuala Terengganu": 766,
+          "Seremban": 4333,
+          "Johor Bahru": 38777,
+          "Melaka": 3490,
+          "Kota Setar": 1967,
+          "Kota Bharu": 2990,
+          "Kuantan": 2349
+        },
+        "total": 58750
       }
     ],
     "monthly_2024": [
@@ -436,6 +451,53 @@
           "Kuantan": 1520
         },
         "total": 51424
+      }
+    ],
+    "monthly_2026": [
+      {
+        "month": "Jan-26",
+        "locations": {
+          "Ipoh": 3676,
+          "Kangar": 558,
+          "Kuala Terengganu": 820,
+          "Seremban": 4273,
+          "Johor Bahru": 41361,
+          "Melaka": 3568,
+          "Kota Setar": 1949,
+          "Kota Bharu": 3326,
+          "Kuantan": 2406
+        },
+        "total": 61936
+      },
+      {
+        "month": "Feb-26",
+        "locations": {
+          "Ipoh": 3660,
+          "Kangar": 423,
+          "Kuala Terengganu": 781,
+          "Seremban": 4298,
+          "Johor Bahru": 33978,
+          "Melaka": 3521,
+          "Kota Setar": 1957,
+          "Kota Bharu": 3009,
+          "Kuantan": 2346
+        },
+        "total": 53973
+      },
+      {
+        "month": "Mar-26",
+        "locations": {
+          "Ipoh": 3548,
+          "Kangar": 369,
+          "Kuala Terengganu": 696,
+          "Seremban": 4428,
+          "Johor Bahru": 40992,
+          "Melaka": 3381,
+          "Kota Setar": 1997,
+          "Kota Bharu": 2635,
+          "Kuantan": 2295
+        },
+        "total": 60341
       }
     ]
   }

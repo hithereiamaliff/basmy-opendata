@@ -6,10 +6,11 @@
 - Data 2019-2024: Dikemaskini 17/5/2025
 - Data 2019-2025 (sehingga Sep): Dikemaskini 27/10/2025
 - Data 2019-2025: Dikemaskini 26/2/2026
+- Data 2019-2026 (Q1): Dikemaskini 20/5/2026
 
 ---
 
-## DATA TAHUNAN (2019-2025)
+## DATA TAHUNAN (2019-2026)
 
 | Tahun | Ipoh | Kangar | Kuala Terengganu | Seremban | Johor Bahru | Melaka | Kota Setar | Kota Bharu | Kuantan | **Jumlah** |
 |-------|------|--------|------------------|----------|-------------|--------|------------|------------|---------|-----------|
@@ -20,6 +21,9 @@
 | 2023 | 2,135 | 386 | 253 | 2,961 | 19,686 | - | - | - | - | **25,421** |
 | 2024 | 1,931 | 420 | 262 | 2,051 | 29,027 | 1,930 | - | - | - | **35,621** |
 | 2025 | 3,508 | 439 | 754 | 3,709 | 31,412 | 2,411 | 1,755 | 2,085 | 1,520 | **47,592** |
+| 2026* | 3,628 | 450 | 766 | 4,333 | 38,777 | 3,490 | 1,967 | 2,990 | 2,349 | **58,750** |
+
+\* 2026: Data separa tahun (Jan–Mac 2026 sahaja, lihat pecahan bulanan di bawah).
 
 ---
 
@@ -61,6 +65,16 @@
 
 ---
 
+## DATA BULANAN 2026 (Q1)
+
+| Bulan | Ipoh | Kangar | Kuala Terengganu | Seremban | Johor Bahru | Melaka | Kota Setar | Kota Bharu | Kuantan | **Jumlah** |
+|-------|------|--------|------------------|----------|-------------|--------|------------|------------|---------|-----------|
+| Jan-26 | 3,676 | 558 | 820 | 4,273 | 41,361 | 3,568 | 1,949 | 3,326 | 2,406 | **61,936** |
+| Feb-26 | 3,660 | 423 | 781 | 4,298 | 33,978 | 3,521 | 1,957 | 3,009 | 2,346 | **53,973** |
+| Mar-26 | 3,548 | 369 | 696 | 4,428 | 40,992 | 3,381 | 1,997 | 2,635 | 2,295 | **60,341** |
+
+---
+
 ## MAKLUMAT PENTING
 
 ### Nota Operasi:
@@ -82,7 +96,7 @@
 
 5. **Peralihan Kontrak**: Bagi kontrak SBST yang tamat pada tahun 2023/2024, perkhidmatan diteruskan di bawah perkhidmatan umum sehingga pengendali baharu dilantik di bawah kontrak baharu dan beroperasi
 
-### Lokasi Perkhidmatan Aktif (Disember 2025):
+### Lokasi Perkhidmatan Aktif (Mac 2026):
 
 | No | Lokasi | Status | Tarikh Mula Operasi |
 |----|--------|--------|---------------------|
@@ -99,4 +113,4 @@
 ---
 
 *Sumber: Agensi Pengangkutan Awam Darat (APAD)*
-*Kemaskini Terakhir: 26 Februari 2026*
+*Kemaskini Terakhir: 20 Mei 2026*
