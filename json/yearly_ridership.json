@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-20",
+  "last_updated": "2026-08-03",
   "source": "Agensi Pengangkutan Awam Darat (APAD)",
   "statistic_type": "total_passengers",
   "data": {
@@ -112,17 +112,17 @@
       {
         "year": "2026*",
         "locations": {
-          "Ipoh": 326445,
-          "Kangar": 40581,
-          "Kuala Terengganu": 68884,
-          "Seremban": 390052,
-          "Johor Bahru": 3504319,
-          "Melaka": 314034,
-          "Kota Setar": 177094,
-          "Kota Bharu": 269030,
-          "Kuantan": 211421
+          "Ipoh": 657901,
+          "Kangar": 92821,
+          "Kuala Terengganu": 141173,
+          "Seremban": 913836,
+          "Johor Bahru": 6997376,
+          "Melaka": 586176,
+          "Kota Setar": 384830,
+          "Kota Bharu": 560387,
+          "Kuantan": 445219
         },
-        "total": 5301860
+        "total": 10779719
       }
     ],
     "monthly_2024": [
@@ -498,6 +498,51 @@
           "Kuantan": 71154
         },
         "total": 1870583
+      },
+      {
+        "month": "Apr-26",
+        "locations": {
+          "Ipoh": 113900,
+          "Kangar": 18467,
+          "Kuala Terengganu": 24690,
+          "Seremban": 168058,
+          "Johor Bahru": 1242906,
+          "Melaka": 111798,
+          "Kota Setar": 70161,
+          "Kota Bharu": 97126,
+          "Kuantan": 81130
+        },
+        "total": 1928236
+      },
+      {
+        "month": "May-26",
+        "locations": {
+          "Ipoh": 110356,
+          "Kangar": 15664,
+          "Kuala Terengganu": 24392,
+          "Seremban": 181463,
+          "Johor Bahru": 1136531,
+          "Melaka": 83944,
+          "Kota Setar": 68865,
+          "Kota Bharu": 96472,
+          "Kuantan": 78246
+        },
+        "total": 1795933
+      },
+      {
+        "month": "Jun-26",
+        "locations": {
+          "Ipoh": 107200,
+          "Kangar": 18109,
+          "Kuala Terengganu": 23207,
+          "Seremban": 174263,
+          "Johor Bahru": 1113620,
+          "Melaka": 76400,
+          "Kota Setar": 68710,
+          "Kota Bharu": 97759,
+          "Kuantan": 74422
+        },
+        "total": 1753690
       }
     ]
   }
