@@ -29,13 +29,25 @@ This file is intended to be used by AI agents to programmatically locate and int
 
 For AI agents and other automated systems, the data in this repository can be accessed programmatically using a Model Context Protocol (MCP) server for GitHub.
 
-I recommend using the **GitHub MCP server by Smithery.ai**:
-*   **Server URL:** [`https://smithery.ai/server/@smithery-ai/github`](https://smithery.ai/server/@smithery-ai/github)
+I recommend using my **GitHub MCP Server**. It's self-hosted and ready to use:
 
-You can use this server's tools (e.g., `get_file_contents`) to read the JSON files directly from the repository.
+*   **Setup guide:** [techmavie.digital/mcp-github](https://techmavie.digital/mcp-github/)
+*   **Hosted endpoint:** `https://mcp.techmavie.digital/github/mcp/usr_YOUR_USER_KEY` (get your user key from the [MCP Key Service](https://mcpkeys.techmavie.digital))
+*   **Source code:** [`hithereiamaliff/mcp-github`](https://github.com/hithereiamaliff/mcp-github), if you'd rather self-host it or run it locally
+
+Once it's connected to your AI client (Claude Desktop, ChatGPT, Windsurf, Cursor, etc.), read [`manifest.json`](manifest.json) to find the data files, then use the server's `get_file_contents` tool to read them directly from the repository:
 
 *   **Owner:** `hithereiamaliff`
 *   **Repo:** `basmy-opendata`
+
+```js
+get_file_contents({
+  owner: "hithereiamaliff",
+  repo: "basmy-opendata",
+  path: "json/yearly_ridership.json",
+  mode: "full" // the default "overview" mode returns only the first 50 lines
+})
+```
 
 ## Data Coverage
 
