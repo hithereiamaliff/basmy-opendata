@@ -7,6 +7,7 @@
 - Data 2019-2025 (sehingga Sep): Dikemaskini 27/10/2025
 - Data 2019-2025: Dikemaskini 26/2/2026
 - Data 2019-2026 (Q1): Dikemaskini 20/5/2026
+- Data 2019-2026 (sehingga Sep): Dikemaskini 20/10/2026
 
 ---
 
@@ -21,9 +22,9 @@
 | 2023 | 2,135 | 386 | 253 | 2,961 | 19,686 | - | - | - | - | **25,421** |
 | 2024 | 1,931 | 420 | 262 | 2,051 | 29,027 | 1,930 | - | - | - | **35,621** |
 | 2025 | 3,508 | 439 | 754 | 3,709 | 31,412 | 2,411 | 1,755 | 2,085 | 1,520 | **47,592** |
-| 2026* | 3,628 | 450 | 766 | 4,333 | 38,777 | 3,490 | 1,967 | 2,990 | 2,349 | **58,750** |
+| 2026* | 3,660 | 516 | 773 | 5,419 | 38,055 | 2,999 | 2,261 | 3,343 | 2,554 | **59,579** |
 
-\* 2026: Data separa tahun (Jan–Mac 2026 sahaja, lihat pecahan bulanan di bawah).
+\* 2026: Data separa tahun (Jan–Sep 2026 sahaja, lihat pecahan bulanan di bawah).
 
 ---
 
@@ -65,13 +66,19 @@
 
 ---
 
-## DATA BULANAN 2026 (Q1)
+## DATA BULANAN 2026 (JANUARI – SEPTEMBER)
 
 | Bulan | Ipoh | Kangar | Kuala Terengganu | Seremban | Johor Bahru | Melaka | Kota Setar | Kota Bharu | Kuantan | **Jumlah** |
 |-------|------|--------|------------------|----------|-------------|--------|------------|------------|---------|-----------|
 | Jan-26 | 3,676 | 558 | 820 | 4,273 | 41,361 | 3,568 | 1,949 | 3,326 | 2,406 | **61,936** |
 | Feb-26 | 3,660 | 423 | 781 | 4,298 | 33,978 | 3,521 | 1,957 | 3,009 | 2,346 | **53,973** |
 | Mar-26 | 3,548 | 369 | 696 | 4,428 | 40,992 | 3,381 | 1,997 | 2,635 | 2,295 | **60,341** |
+| Apr-26 | 3,797 | 616 | 823 | 5,602 | 41,430 | 3,727 | 2,339 | 3,238 | 2,704 | **64,275** |
+| May-26 | 3,560 | 505 | 787 | 5,854 | 36,662 | 2,708 | 2,221 | 3,112 | 2,524 | **57,933** |
+| Jun-26 | 3,573 | 604 | 774 | 5,809 | 37,121 | 2,547 | 2,290 | 3,259 | 2,481 | **58,456** |
+| Jul-26 | 3,784 | 605 | 738 | 6,283 | 36,968 | 2,513 | 2,526 | 3,572 | 2,697 | **59,685** |
+| Aug-26 | 3,725 | 466 | 796 | 6,197 | 37,495 | 2,611 | 2,586 | 3,723 | 2,768 | **60,368** |
+| Sep-26 | 3,613 | 494 | 745 | 6,029 | 36,487 | 2,418 | 2,482 | 4,211 | 2,760 | **59,240** |
 
 ---
 
@@ -96,7 +103,7 @@
 
 5. **Peralihan Kontrak**: Bagi kontrak SBST yang tamat pada tahun 2023/2024, perkhidmatan diteruskan di bawah perkhidmatan umum sehingga pengendali baharu dilantik di bawah kontrak baharu dan beroperasi
 
-### Lokasi Perkhidmatan Aktif (Mac 2026):
+### Lokasi Perkhidmatan Aktif (September 2026):
 
 | No | Lokasi | Status | Tarikh Mula Operasi |
 |----|--------|--------|---------------------|
@@ -113,4 +120,4 @@
 ---
 
 *Sumber: Agensi Pengangkutan Awam Darat (APAD)*
-*Kemaskini Terakhir: 20 Mei 2026*
+*Kemaskini Terakhir: 20 Oktober 2026*

@@ -40,7 +40,7 @@ You can use this server's tools (e.g., `get_file_contents`) to read the JSON fil
 ## Data Coverage
 
 *   **Yearly totals**: 2019 through the current year.
-*   **Monthly breakdowns**: 2024, 2025, and 2026 (January through June, ongoing).
+*   **Monthly breakdowns**: 2024, 2025, and 2026 (January through September, ongoing).
 *   **Partial-year entries** are marked with an asterisk in the `year` field (e.g. `"2026*"`) when the year is still in progress. Consumers should treat `year` as `number | string` rather than strictly numeric.
 *   Check `last_updated` at the top of each JSON file for the latest refresh date.
 
@@ -88,11 +88,11 @@ The data in the JSON files follows a consistent schema, detailed below:
       {
         "year": "2026*",
         "locations": {
-          "Ipoh": 657901,
-          "Kangar": 92821
+          "Ipoh": 1009178,
+          "Kangar": 140852
           // ... other locations
         },
-        "total": 10779719
+        "total": 16288664
       }
     ],
     "monthly_YYYY": [
